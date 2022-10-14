@@ -1,16 +1,26 @@
 import React from "react";
+import ExploreButton from "./ExploreButton";
+import SearchButton from "./SearchButton";
 
 function SearchBox() {
   return (
     <div className="search-box">
       Get Searching:
       <div className="searchbar">
-        <input
-          type={"text"}
-          placeholder={"E.g: Sushi"}
-          autoComplete={"off"}
-          autoFocus
-        ></input>
+        <form>
+          <input
+            type={"text"}
+            placeholder={"E.g: Sushi"}
+            autoComplete={"off"}
+          ></input>
+          <div>
+            <SearchButton />
+          </div>
+        </form>
+      </div>
+      <div className="explore-container">
+        Or start exploring
+        <ExploreButton />
       </div>
     </div>
   );

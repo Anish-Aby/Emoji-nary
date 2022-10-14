@@ -1,21 +1,15 @@
 import React from "react";
-import Header from "./Header";
-import Description from "./Description";
-import SearchBox from "./SearchBox";
-import Card from "./Card";
-import Card2 from "./Card2";
-import Card3 from "./Card3";
+
+import { Route, Routes } from "react-router";
+
+import Home from "../pages/Home";
 
 function App() {
   return (
-    <div className="main-container">
-      <Header />
-      <Description />
-      <SearchBox />
-      <Card />
-      <Card2 />
-      <Card3 />
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      {/* <Route path="/" element={} /> */}
+    </Routes>
   );
 }
 

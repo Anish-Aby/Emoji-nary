@@ -61,6 +61,13 @@ header {
 
 /* SEARCH BOX  */
 
+form{
+    display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 5vh;
+}
+
 .search-box{
   display: flex;
   flex-direction: column;
@@ -84,6 +91,12 @@ input {
   padding: 1vh;
 }
 
+.explore-container{
+  display: flex;
+  align-items: center;
+  gap: 5vh;
+}
+
 @media screen and (max-width: 1200px) {
   .search-box{
     font-size: 3vh;
@@ -92,6 +105,39 @@ input {
     min-height: 5vh;
     width: 40vh;
   }
+}
+
+.search-button{
+  min-height: 5vh;
+  width: 10vh;
+  align-self: flex-end;
+  padding: 1vh;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.5vh;
+  font-weight: 700;
+  font-family: "Poppins";
+}
+
+.search-button:hover{
+  background-color: #474A48;
+  color: #E8E9EB;
+}
+
+/* EXPLORE BUTTON */
+.explore-button{
+  min-height: 5vh;
+  width: 10vh;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.5vh;
+  font-weight: 700;
+  font-family: "Poppins";
+}
+
+.explore-button:hover{
+  background-color: #474A48;
+  color: #E8E9EB;
 }
 
 /* CARD */
@@ -179,6 +225,11 @@ input {
   }
   .search-box{
     text-align: center;
+  }
+  form{
+      flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   input{
     width: 50vh;
