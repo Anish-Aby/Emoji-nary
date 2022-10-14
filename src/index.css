@@ -7,6 +7,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #1a1a1a;
+  overflow: hidden;
 }
 
 .main-container{
@@ -69,3 +70,78 @@ input {
   padding: 1vh;
 }
 
+/* CARD */
+
+.card-div{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: 40vh;
+  right: 10vh;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 40vh;
+  min-height: 40vh;
+  border-radius: 26px;
+  background-color: #474A48;
+  padding: 1vh;
+  overflow: hidden;
+}
+
+.emoji{
+  font-size: 10vh;
+}
+
+.emoji-name{
+  color: #E8E9EB;
+  font-family: "Poppins";
+  font-weight: 900;
+  font-size: 3vh;
+  text-align: center;
+}
+
+.emoji-description{
+    color: #E8E9EB;
+  font-family: "Poppins";
+  font-weight: 100;
+  font-size: 2vh;
+  text-align: center;
+}
+
+/* CARD 2 */
+.card-div2{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: 10vh;
+  right: -10vh;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 40vh;
+  min-height: 40vh;
+  border-radius: 26px;
+  background-color: #474A48;
+  padding: 1vh;
+  overflow: hidden;
+  z-index: -1;
+  opacity: 70%;
+}
+
+/* CARD 3 */
+.card-div3{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: -15vh;
+  right: -10vh;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 40vh;
+  min-height: 40vh;
+  border-radius: 26px;
+  background-color: #474A48;
+  padding: 1vh;
+  overflow: hidden;
+  z-index: -1;
+  opacity: 70%;
+}
