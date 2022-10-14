@@ -69,13 +69,13 @@ header {
   color: #E8E9EB;
   font-family: "Poppins";
   font-weight: 300;
-  font-size: 2vh;
+  font-size: 3vh;
 }
 
 input {
   border: none;
   min-height: 5vh;
-  width: 30vh;
+  width: 50vh;
   border-radius: 8px;
   color: #1a1a1a;
   font-family: "Poppins";
