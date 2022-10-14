@@ -16,6 +16,7 @@ body {
   gap: 10vh;
   width: 100%;
   height: 100vh;
+  overflow: hidden;
 }
 
 
@@ -27,10 +28,17 @@ header {
   margin-left: 3%;
 }
 
+
 .heading{
   color: #E8E9EB;
-  font-weight: bolder;
-  font-size: 10.1vw;
+  font-weight: 900;
+  font-size: 25vh;
+}
+
+@media screen and (max-width: 1200px) {
+  .heading{
+    font-size: 20vh;
+  }
 }
 
 /* DESCRIPTION */
@@ -38,11 +46,17 @@ header {
 .description{
   color: #E8E9EB;
   font-family: "Poppins", sans-serif;
-  font-size: 1.5vw;
+  font-size: 3vh;
   font-weight: 600;
   margin-left: 3%;
   text-align: left;
   max-width: 1034px;
+}
+
+@media screen and (max-width: 1200px) {
+  .description{
+    font-size: 2.5vh;
+  }
 }
 
 /* SEARCH BOX  */
@@ -55,18 +69,18 @@ header {
   color: #E8E9EB;
   font-family: "Poppins";
   font-weight: 300;
-  font-size: 1.5vw;
+  font-size: 2vh;
 }
 
 input {
   border: none;
-  min-height: 2vw;
-  width: 20vw;
+  min-height: 5vh;
+  width: 30vh;
   border-radius: 8px;
   color: #1a1a1a;
   font-family: "Poppins";
   font-weight: 500;
-  font-size: 1vw;
+  font-size: 1.5vh;
   padding: 1vh;
 }
 
@@ -108,6 +122,7 @@ input {
   text-align: center;
 }
 
+
 /* CARD 2 */
 .card-div2{
   position: absolute;
@@ -144,4 +159,105 @@ input {
   overflow: hidden;
   z-index: -1;
   opacity: 70%;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 940px) {
+  .description{
+    text-align: center;
+  }
+  .search-box{
+    text-align: center;
+  }
+  input{
+    width: 50vh;
+    min-height: 5vh;
+  }
+  .main-container{
+    overflow: scroll;
+    
+    align-items: center;
+  }
+  .card-div{
+    position:unset;
+  }
+  .card-div2{
+    opacity: 100%;
+    position:unset;
+  }
+  .card-div3{
+    opacity: 100%;
+    position:unset;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .heading{
+    font-size: 12vh;
+  }
+  .description{
+    font-size: 2vh;
+  }
+  .description{
+    text-align: center;
+  }
+  .search-box{
+    text-align: center;
+  }
+  input{
+    width: 45vh;
+    min-height: 5vh;
+  }
+  .main-container{
+    overflow: scroll;
+    
+    align-items: center;
+  }
+  .card-div{
+    position:unset;
+  }
+  .card-div2{
+    opacity: 100%;
+    position:unset;
+  }
+  .card-div3{
+    opacity: 100%;
+    position:unset;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .heading{
+    font-size: 8vh;
+  }
+  .description{
+    font-size: 1.7vh;
+  }
+  .description{
+    text-align: center;
+  }
+  .search-box{
+    text-align: center;
+  }
+  input{
+    width: 43vh;
+    min-height: 5vh;
+  }
+  .main-container{
+    overflow: scroll;
+    
+    align-items: center;
+  }
+  .card-div{
+    position:unset;
+  }
+  .card-div2{
+    opacity: 100%;
+    position:unset;
+  }
+  .card-div3{
+    opacity: 100%;
+    position:unset;
+  }
 }
