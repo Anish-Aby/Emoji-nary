@@ -3,9 +3,12 @@ import React from "react";
 function Description() {
   return (
     <div className="description">
-      Search for any emoji from our collections.
+      Search for any <span className="highlight">emoji</span> from our
+      collections.
       <div>
-        You can search for them or just browse through the <div>emojis!</div>
+        You can <span className="highlight">search</span> for them or just{" "}
+        <span className="highlight">browse </span>
+        through the <div>emojis!</div>
       </div>
     </div>
   );

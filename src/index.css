@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #1a1a1a;
+  background-color: #0A0D0F;
   overflow: hidden;
 }
 
@@ -30,7 +30,7 @@ header {
 
 
 .heading{
-  color: #E8E9EB;
+  color: #E91E63;
   font-weight: 900;
   font-size: 25vh;
 }
@@ -44,7 +44,7 @@ header {
 /* DESCRIPTION */
 
 .description{
-  color: #E8E9EB;
+  color: #D6D6D6;
   font-family: "Poppins", sans-serif;
   font-size: 3vh;
   font-weight: 600;
@@ -73,7 +73,7 @@ form{
   flex-direction: column;
   margin-left: 3%;
   gap: 3vh;
-  color: #E8E9EB;
+  color: #D6D6D6;
   font-family: "Poppins";
   font-weight: 300;
   font-size: 3vh;
@@ -117,11 +117,13 @@ input {
   font-size: 1.5vh;
   font-weight: 700;
   font-family: "Poppins";
+  background-color: #1f2325;
+  color: #E91E63;
 }
 
 .search-button:hover{
-  background-color: #474A48;
-  color: #E8E9EB;
+  background-color: #1f2325;
+  color: #D6D6D6;
 }
 
 /* EXPLORE BUTTON */
@@ -133,11 +135,13 @@ input {
   font-size: 1.5vh;
   font-weight: 700;
   font-family: "Poppins";
+    background-color: #1f2325;
+  color: #E91E63;
 }
 
 .explore-button:hover{
-  background-color: #474A48;
-  color: #E8E9EB;
+  background-color: #1f2325;
+  color: #D6D6D6;
 }
 
 /* CARD */
@@ -153,7 +157,7 @@ input {
   width: 40vh;
   min-height: 40vh;
   border-radius: 26px;
-  background-color: #474A48;
+  background-color: #1f2325;
   padding: 1vh;
   overflow: hidden;
 }
@@ -163,7 +167,7 @@ input {
 }
 
 .emoji-name{
-  color: #E8E9EB;
+  color: #E91E63;
   font-family: "Poppins";
   font-weight: 900;
   font-size: 3vh;
@@ -191,7 +195,7 @@ input {
   width: 40vh;
   min-height: 40vh;
   border-radius: 26px;
-  background-color: #474A48;
+  background-color: #1f2325;
   padding: 1vh;
   overflow: hidden;
   z-index: -1;
@@ -210,11 +214,16 @@ input {
   width: 40vh;
   min-height: 40vh;
   border-radius: 26px;
-  background-color: #474A48;
+  background-color: #1f2325;
   padding: 1vh;
   overflow: hidden;
   z-index: -1;
   opacity: 70%;
+}
+
+/* HIGHLIGHT */
+.highlight{
+  color: #E91E63;
 }
 
 /* MEDIA QUERIES */
