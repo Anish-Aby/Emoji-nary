@@ -84,6 +84,16 @@ input {
   padding: 1vh;
 }
 
+@media screen and (max-width: 1200px) {
+  .search-box{
+    font-size: 3vh;
+  }
+  input {
+    min-height: 5vh;
+    width: 40vh;
+  }
+}
+
 /* CARD */
 
 .card-div{
