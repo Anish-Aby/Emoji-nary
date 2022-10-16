@@ -1,11 +1,10 @@
 import React from "react";
-import Header from "../components/Header";
-import Description from "../components/Description";
-import SearchBox from "../components/SearchBox";
-import Card from "../components/Card";
-import Card2 from "../components/Card2";
-import Card3 from "../components/Card3";
-import ExploreButton from "../components/ExploreButton";
+import Header from "../components/homePageComponents/Header";
+import Description from "../components/homePageComponents/Description";
+import SearchBox from "../components/homePageComponents/SearchBox";
+import Card from "../components/homePageComponents/Card";
+import Card2 from "../components/homePageComponents/Card2";
+import Card3 from "../components/homePageComponents/Card3";
 
 function Home() {
   return (
@@ -13,7 +12,6 @@ function Home() {
       <Header />
       <Description />
       <SearchBox />
-      <ExploreButton />
       <Card />
       <Card2 />
       <Card3 />
