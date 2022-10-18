@@ -9,6 +9,7 @@ function SearchBox() {
       <div className="searchbar">
         <form>
           <input
+            className="home-searchbar"
             type={"text"}
             placeholder={"E.g: Sushi"}
             autoComplete={"off"}
