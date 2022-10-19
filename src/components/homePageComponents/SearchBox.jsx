@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import ExploreButton from "./ExploreButton";
 import SearchButton from "./SearchButton";
 
@@ -7,11 +8,12 @@ function SearchBox() {
     <div className="search-box">
       Get Searching:
       <div className="searchbar">
-        <form>
+        <form method="GET" action="/search">
           <input
+            name="search"
             className="home-searchbar"
             type={"text"}
-            placeholder={"E.g: Sushi"}
+            placeholder={"E.g: Sushi or 🍣"}
             autoComplete={"off"}
           ></input>
           <div>

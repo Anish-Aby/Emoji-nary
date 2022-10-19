@@ -174,7 +174,7 @@ form {
   align-items: center;
   justify-content: space-evenly;
   width: 40vh;
-  min-height: 40vh;
+  height: 40vh;
   border-radius: 26px;
   background-color: #1f2325;
   padding: 1vh;
@@ -185,7 +185,7 @@ form {
   font-size: 10vh;
 }
 
-.emoji-name {
+.emojiName {
   color: #E91E63;
   font-family: "Poppins";
   font-weight: 900;
@@ -520,7 +520,7 @@ form {
   overflow: hidden;
 }
 
-.explore-page-cards:hover, .explore-page-cards-name{
+.explore-page-cards:hover, .explore-page-cards-emojiName{
   cursor: pointer;
 }
 

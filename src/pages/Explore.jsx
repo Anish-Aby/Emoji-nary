@@ -14,7 +14,16 @@ function Explore() {
   return (
     <>
       <div className="EXPLORE-MAIN-CONTAINER">
-        <SideBar />
+        <SideBar
+          people={"#people"}
+          animal={"#animal"}
+          food={"#food"}
+          activity={"#activity"}
+          travel={"#travel"}
+          flags={"#flags"}
+          symbols={"#symbols"}
+          object={"#object"}
+        />
         <div className="EXPLORE-MID-CONTAINER">
           <h1 className="EXPLORE-CATEGORY-HEADING" id="people">
             People
@@ -24,8 +33,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object.name.substring(2)}
-                  emojiDescription={object.meaning}
+                  eName={object.emojiName.substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -38,8 +47,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -52,8 +61,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -66,8 +75,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -80,8 +89,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -94,8 +103,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"]}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"]}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -108,8 +117,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}
@@ -122,8 +131,8 @@ function Explore() {
               return (
                 <Cards
                   emoji={object.emoji}
-                  emojiName={object["emoji-name"].substring(2)}
-                  emojiDescription={object.description}
+                  eName={object["emojiName"].substring(2)}
+                  eDescription={object.description}
                 />
               );
             })}

@@ -5,7 +5,7 @@ const travel = [
     travel: "🛅 Left Luggage",
     "travel-href": "https://emojipedia.org/left-luggage/",
     emoji: "🛅",
-    "emoji-name": "🛅 Left Luggage",
+    emojiName: "🛅 Left Luggage",
     description:
       "An icon representing a place to leave luggage. Most commonly found at Japanese train stations to signify coin lockers where bags can be stored for a daily fee.",
   },
@@ -15,7 +15,7 @@ const travel = [
     travel: "🛄 Baggage Claim",
     "travel-href": "https://emojipedia.org/baggage-claim/",
     emoji: "🛄",
-    "emoji-name": "🛄 Baggage Claim",
+    emojiName: "🛄 Baggage Claim",
     description:
       "Baggage Claim was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -25,7 +25,7 @@ const travel = [
     travel: "🛃 Customs",
     "travel-href": "https://emojipedia.org/customs/",
     emoji: "🛃",
-    "emoji-name": "🛃 Customs",
+    emojiName: "🛃 Customs",
     description:
       "A customs officer inspecting luggage. May be shown on signage at airports or other border crossings.",
   },
@@ -35,7 +35,7 @@ const travel = [
     travel: "🛂 Passport Control",
     "travel-href": "https://emojipedia.org/passport-control/",
     emoji: "🛂",
-    "emoji-name": "🛂 Passport Control",
+    emojiName: "🛂 Passport Control",
     description: "A person checking passports at an international border.",
   },
   {
@@ -44,7 +44,7 @@ const travel = [
     travel: "🗿 Moai",
     "travel-href": "https://emojipedia.org/moai/",
     emoji: "🗿",
-    "emoji-name": "🗿 Moai",
+    emojiName: "🗿 Moai",
     description:
       "A moai, one of the famed, giant stone statues of human figures on Easter Island. Depicted as a gray stone carving of a stylized human head with a prominent brow and nose, most often facing left.",
   },
@@ -54,7 +54,7 @@ const travel = [
     travel: "💷 Pound Banknote",
     "travel-href": "https://emojipedia.org/pound-banknote/",
     emoji: "💷",
-    "emoji-name": "💷 Pound Banknote",
+    emojiName: "💷 Pound Banknote",
     description:
       "Quids in! A banded stack of pound banknotes, the paper currency of the United Kingdom (England, Wales, Northern Ireland, and Scotland). Color and detail vary across platforms, but widely depicted as purple £20 notes with the pound sign, £.",
   },
@@ -64,7 +64,7 @@ const travel = [
     travel: "💶 Euro Banknote",
     "travel-href": "https://emojipedia.org/euro-banknote/",
     emoji: "💶",
-    "emoji-name": "💶 Euro Banknote",
+    emojiName: "💶 Euro Banknote",
     description:
       "A banded stack of euro banknotes, the paper currency of the European Union (EU). Color and detail vary across platforms, but shown with the euro sign, €. Commonly used for various content concerning wealth and money, not restricted to the EU.",
   },
@@ -74,7 +74,7 @@ const travel = [
     travel: "💵 Dollar Banknote",
     "travel-href": "https://emojipedia.org/dollar-banknote/",
     emoji: "💵",
-    "emoji-name": "💵 Dollar Banknote",
+    emojiName: "💵 Dollar Banknote",
     description:
       "Cash money! A banded stack of U.S. dollar banknotes, the paper currency of the United States of America. Green hue and detail vary across platforms, but shown with the dollar sign, $. Commonly used for various content concerning wealth and money, not restricted to the U.S.",
   },
@@ -84,7 +84,7 @@ const travel = [
     travel: "💴 Yen Banknote",
     "travel-href": "https://emojipedia.org/yen-banknote/",
     emoji: "💴",
-    "emoji-name": "💴 Yen Banknote",
+    emojiName: "💴 Yen Banknote",
     description:
       "A banded stack of yen banknotes, the paper currency of Japan. Color and detail vary across platforms, but usually shown in green, yellow, or pink with the yen symbol, ¥. Commonly used for various content concerning money and wealth, not restricted to Japan.",
   },
@@ -94,7 +94,7 @@ const travel = [
     travel: "🎑 Moon Viewing Ceremony",
     "travel-href": "https://emojipedia.org/moon-viewing-ceremony/",
     emoji: "🎑",
-    "emoji-name": "🎑 Moon Viewing Ceremony",
+    emojiName: "🎑 Moon Viewing Ceremony",
     description:
       "Moon Viewing Ceremonies (called Tsukimi in Japan) are held each year in autumn to celebrate the full moon and waxing moon in Japan.",
   },
@@ -104,7 +104,7 @@ const travel = [
     travel: "🎇 Sparkler",
     "travel-href": "https://emojipedia.org/sparkler/",
     emoji: "🎇",
-    "emoji-name": "🎇 Sparkler",
+    emojiName: "🎇 Sparkler",
     description:
       "A  sparkler: a form of hand-held firework often used at parties and celebrations. The sparkler is lit at one end, and held at the other.",
   },
@@ -114,7 +114,7 @@ const travel = [
     travel: "🎆 Fireworks",
     "travel-href": "https://emojipedia.org/fireworks/",
     emoji: "🎆",
-    "emoji-name": "🎆 Fireworks",
+    emojiName: "🎆 Fireworks",
     description:
       "Firework emoji, showing a explosion of colored light in the night sky, used for any number of celebrations such as New Year's Eve.",
   },
@@ -124,7 +124,7 @@ const travel = [
     travel: "⛱️ Umbrella on Ground",
     "travel-href": "https://emojipedia.org/umbrella-on-ground/",
     emoji: "⛱️",
-    "emoji-name": "⛱️ Umbrella on Ground",
+    emojiName: "⛱️ Umbrella on Ground",
     description:
       "A large, open umbrella, as provides shade at a beach or patio. Generally depicted as a striped umbrella inserted into a patch of sand and tilted to the right.",
   },
@@ -134,7 +134,7 @@ const travel = [
     travel: "🌌 Milky Way",
     "travel-href": "https://emojipedia.org/milky-way/",
     emoji: "🌌",
-    "emoji-name": "🌌 Milky Way",
+    emojiName: "🌌 Milky Way",
     description:
       "The Milky Way – a galaxy of billions of stars that includes our own solar system and planet earth.",
   },
@@ -144,7 +144,7 @@ const travel = [
     travel: "🌠 Shooting Star",
     "travel-href": "https://emojipedia.org/shooting-star/",
     emoji: "🌠",
-    "emoji-name": "🌠 Shooting Star",
+    emojiName: "🌠 Shooting Star",
     description:
       "A stylized representation of a shooting star, a small, fast meteor that burns up in the atmosphere. Generally depicted as a gold, five-point star trailing yellow motion lines against a night sky, as if moving down to the left.",
   },
@@ -154,7 +154,7 @@ const travel = [
     travel: "🪐 Ringed Planet",
     "travel-href": "https://emojipedia.org/ringed-planet/",
     emoji: "🪐",
-    "emoji-name": "🪐 Ringed Planet",
+    emojiName: "🪐 Ringed Planet",
     description:
       "A ringed planet that appears with various number of rings, tilt angles, and colors across platforms. This vaguely Saturn-like orb was proposed as a stand-alone planet emoji to represent all planets.",
   },
@@ -164,7 +164,7 @@ const travel = [
     travel: "🛸 Flying Saucer",
     "travel-href": "https://emojipedia.org/flying-saucer/",
     emoji: "🛸",
-    "emoji-name": "🛸 Flying Saucer",
+    emojiName: "🛸 Flying Saucer",
     description:
       "A flying saucer, sometimes referred to as an Unidentified Flying Object (UFO). Previously shown on some platforms with an alien at the controls and/or a beam of light emitting from the base.",
   },
@@ -174,7 +174,7 @@ const travel = [
     travel: "🚀 Rocket",
     "travel-href": "https://emojipedia.org/rocket/",
     emoji: "🚀",
-    "emoji-name": "🚀 Rocket",
+    emojiName: "🚀 Rocket",
     description:
       "A rocket being propelled into space. Sometimes used to indicate a fast increase, for instance when referring to stocks going to the moon 🚀 (rising quickly in price).",
   },
@@ -184,7 +184,7 @@ const travel = [
     travel: "🛰️ Satellite",
     "travel-href": "https://emojipedia.org/satellite/",
     emoji: "🛰️",
-    "emoji-name": "🛰️ Satellite",
+    emojiName: "🛰️ Satellite",
     description:
       "A satellite which orbits the earth, and is generally used for communications, weather, and GPS.",
   },
@@ -194,7 +194,7 @@ const travel = [
     travel: "🚡 Aerial Tramway",
     "travel-href": "https://emojipedia.org/aerial-tramway/",
     emoji: "🚡",
-    "emoji-name": "🚡 Aerial Tramway",
+    emojiName: "🚡 Aerial Tramway",
     description:
       "An Aerial Tramway, most commonly seen at ski resorts, for transport between locations on a mountain. Can also be used as a tourist attraction, or as a form of public transport.",
   },
@@ -204,7 +204,7 @@ const travel = [
     travel: "🚠 Mountain Cableway",
     "travel-href": "https://emojipedia.org/mountain-cableway/",
     emoji: "🚠",
-    "emoji-name": "🚠 Mountain Cableway",
+    emojiName: "🚠 Mountain Cableway",
     description:
       "Mountain Cableway was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -214,7 +214,7 @@ const travel = [
     travel: "🚟 Suspension Railway",
     "travel-href": "https://emojipedia.org/suspension-railway/",
     emoji: "🚟",
-    "emoji-name": "🚟 Suspension Railway",
+    emojiName: "🚟 Suspension Railway",
     description:
       "Similar to a monorail, a suspension railway is elevated, but the vehicle is suspended under the track.",
   },
@@ -224,7 +224,7 @@ const travel = [
     travel: "🚁 Helicopter",
     "travel-href": "https://emojipedia.org/helicopter/",
     emoji: "🚁",
-    "emoji-name": "🚁 Helicopter",
+    emojiName: "🚁 Helicopter",
     description:
       "A helicopter, which can hover in the air. Often seen in emergency circumstances such as transporting patients to a hospital, or for police or fire-fighting activity.",
   },
@@ -234,7 +234,7 @@ const travel = [
     travel: "💺 Seat",
     "travel-href": "https://emojipedia.org/seat/",
     emoji: "💺",
-    "emoji-name": "💺 Seat",
+    emojiName: "💺 Seat",
     description:
       "A seat, which could refer to any form of place to sit, with the distinction that a seat is generally fixed, and is not a chair which can be moved.",
   },
@@ -244,7 +244,7 @@ const travel = [
     travel: "🪂 Parachute",
     "travel-href": "https://emojipedia.org/parachute/",
     emoji: "🪂",
-    "emoji-name": "🪂 Parachute",
+    emojiName: "🪂 Parachute",
     description:
       "An open parachute floating through the air with a human steering. Most platforms feature a ram-air design. Colors vary across platforms.",
   },
@@ -254,7 +254,7 @@ const travel = [
     travel: "🛬 Airplane Arrival",
     "travel-href": "https://emojipedia.org/airplane-arrival/",
     emoji: "🛬",
-    "emoji-name": "🛬 Airplane Arrival",
+    emojiName: "🛬 Airplane Arrival",
     description:
       "A plane approaching a runway for landing. Generally displayed left-right, with the front of the plane facing toward the ground in a position that may result in a crash if attempted in the real world.",
   },
@@ -264,7 +264,7 @@ const travel = [
     travel: "🛫 Airplane Departure",
     "travel-href": "https://emojipedia.org/airplane-departure/",
     emoji: "🛫",
-    "emoji-name": "🛫 Airplane Departure",
+    emojiName: "🛫 Airplane Departure",
     description:
       "A plane taking off from a runway. Generally displayed left-right, with the front of the plane elevated.",
   },
@@ -274,7 +274,7 @@ const travel = [
     travel: "🛩️ Small Airplane",
     "travel-href": "https://emojipedia.org/small-airplane/",
     emoji: "🛩️",
-    "emoji-name": "🛩️ Small Airplane",
+    emojiName: "🛩️ Small Airplane",
     description:
       "A light aircraft which is shown with propellers on some platforms.",
   },
@@ -284,7 +284,7 @@ const travel = [
     travel: "✈️ Airplane",
     "travel-href": "https://emojipedia.org/airplane/",
     emoji: "✈️",
-    "emoji-name": "✈️ Airplane",
+    emojiName: "✈️ Airplane",
     description:
       "Used either as a literal airplane, to represent an overseas vacation, or sometimes as a proxy for airplane mode on a phone or tablet.",
   },
@@ -294,7 +294,7 @@ const travel = [
     travel: "🚢 Ship",
     "travel-href": "https://emojipedia.org/ship/",
     emoji: "🚢",
-    "emoji-name": "🚢 Ship",
+    emojiName: "🚢 Ship",
     description:
       "A large ship, used for transport of people or cargo across the ocean. May be a cruise ship, commonly found around tropical locations.",
   },
@@ -304,7 +304,7 @@ const travel = [
     travel: "🛥️ Motor Boat",
     "travel-href": "https://emojipedia.org/motor-boat/",
     emoji: "🛥️",
-    "emoji-name": "🛥️ Motor Boat",
+    emojiName: "🛥️ Motor Boat",
     description:
       "Motor Boat was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -314,7 +314,7 @@ const travel = [
     travel: "⛴️ Ferry",
     "travel-href": "https://emojipedia.org/ferry/",
     emoji: "⛴️",
-    "emoji-name": "⛴️ Ferry",
+    emojiName: "⛴️ Ferry",
     description:
       "Ferry was approved as part of Unicode 5.2 in 2009 and added to Emoji 1.0 in 2015.",
   },
@@ -324,7 +324,7 @@ const travel = [
     travel: "🛳️ Passenger Ship",
     "travel-href": "https://emojipedia.org/passenger-ship/",
     emoji: "🛳️",
-    "emoji-name": "🛳️ Passenger Ship",
+    emojiName: "🛳️ Passenger Ship",
     description:
       "Passenger Ship was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -334,7 +334,7 @@ const travel = [
     travel: "🚤 Speedboat",
     "travel-href": "https://emojipedia.org/speedboat/",
     emoji: "🚤",
-    "emoji-name": "🚤 Speedboat",
+    emojiName: "🚤 Speedboat",
     description:
       "A motorized speedboat used for recreation on lakes, or other bodies of water.",
   },
@@ -344,7 +344,7 @@ const travel = [
     travel: "⛵ Sailboat",
     "travel-href": "https://emojipedia.org/sailboat/",
     emoji: "⛵",
-    "emoji-name": "⛵ Sailboat",
+    emojiName: "⛵ Sailboat",
     description:
       "A sailboat, otherwise known as a sailing boat or yacht.  Uses wind as the source of propulsion to move around a body of water.",
   },
@@ -354,7 +354,7 @@ const travel = [
     travel: "🛟 Ring Buoy",
     "travel-href": "https://emojipedia.org/ring-buoy/",
     emoji: "🛟",
-    "emoji-name": "🛟 Ring Buoy",
+    emojiName: "🛟 Ring Buoy",
     description:
       "A round white and orange or red ring buoy with string laced through its perimeter. Also called a life preserver.",
   },
@@ -364,7 +364,7 @@ const travel = [
     travel: "⚓ Anchor",
     "travel-href": "https://emojipedia.org/anchor/",
     emoji: "⚓",
-    "emoji-name": "⚓ Anchor",
+    emojiName: "⚓ Anchor",
     description:
       "A metal device, dropped out of a boat to prevent it drifting away from the current location.",
   },
@@ -374,7 +374,7 @@ const travel = [
     travel: "🚧 Construction",
     "travel-href": "https://emojipedia.org/construction/",
     emoji: "🚧",
-    "emoji-name": "🚧 Construction",
+    emojiName: "🚧 Construction",
     description:
       "A sign used to indicate roadwork or construction. Generally shown as yellow and black diagonal stripes, and often used to physically block access to a road or area. May be used to imply a website or project in progress or under construction.",
   },
@@ -384,7 +384,7 @@ const travel = [
     travel: "🚦 Vertical Traffic Light",
     "travel-href": "https://emojipedia.org/vertical-traffic-light/",
     emoji: "🚦",
-    "emoji-name": "🚦 Vertical Traffic Light",
+    emojiName: "🚦 Vertical Traffic Light",
     description:
       "A set of red, orange (amber) and green traffic lights, used at intersections. More common than the horizontal traffic light.",
   },
@@ -394,7 +394,7 @@ const travel = [
     travel: "🚥 Horizontal Traffic Light",
     "travel-href": "https://emojipedia.org/horizontal-traffic-light/",
     emoji: "🚥",
-    "emoji-name": "🚥 Horizontal Traffic Light",
+    emojiName: "🚥 Horizontal Traffic Light",
     description:
       "A set of red, orange (amber) and green traffic lights, used at intersections. Less common than the vertical traffic light.",
   },
@@ -404,7 +404,7 @@ const travel = [
     travel: "🚨 Police Car Light",
     "travel-href": "https://emojipedia.org/police-car-light/",
     emoji: "🚨",
-    "emoji-name": "🚨 Police Car Light",
+    emojiName: "🚨 Police Car Light",
     description:
       "A revolving red light seen on top of a police car. Often used in emergency circumstances in addition to a siren making a loud warning sound.",
   },
@@ -414,7 +414,7 @@ const travel = [
     travel: "🛞 Wheel",
     "travel-href": "https://emojipedia.org/wheel/",
     emoji: "🛞",
-    "emoji-name": "🛞 Wheel",
+    emojiName: "🛞 Wheel",
     description: "A wheel with a rubber tire.",
   },
   {
@@ -423,7 +423,7 @@ const travel = [
     travel: "⛽ Fuel Pump",
     "travel-href": "https://emojipedia.org/fuel-pump/",
     emoji: "⛽",
-    "emoji-name": "⛽ Fuel Pump",
+    emojiName: "⛽ Fuel Pump",
     description: "A fuel pump, used to fill up a vehicle with gas / petrol.",
   },
   {
@@ -432,7 +432,7 @@ const travel = [
     travel: "🛤️ Railway Track",
     "travel-href": "https://emojipedia.org/railway-track/",
     emoji: "🛤️",
-    "emoji-name": "🛤️ Railway Track",
+    emojiName: "🛤️ Railway Track",
     description:
       "Railway Track was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -442,7 +442,7 @@ const travel = [
     travel: "🛣️ Motorway",
     "travel-href": "https://emojipedia.org/motorway/",
     emoji: "🛣️",
-    "emoji-name": "🛣️ Motorway",
+    emojiName: "🛣️ Motorway",
     description:
       "A wide road shown from a first person perspective. Apple's artwork displays a road sign to Curpertino.",
   },
@@ -452,7 +452,7 @@ const travel = [
     travel: "🚏 Bus Stop",
     "travel-href": "https://emojipedia.org/bus-stop/",
     emoji: "🚏",
-    "emoji-name": "🚏 Bus Stop",
+    emojiName: "🚏 Bus Stop",
     description:
       "A sign indicating the location of a bus stop by the side of a road.",
   },
@@ -462,7 +462,7 @@ const travel = [
     travel: "🛴 Kick Scooter",
     "travel-href": "https://emojipedia.org/kick-scooter/",
     emoji: "🛴",
-    "emoji-name": "🛴 Kick Scooter",
+    emojiName: "🛴 Kick Scooter",
     description: "A non-motorized scooter, with two wheels and handles.",
   },
   {
@@ -471,7 +471,7 @@ const travel = [
     travel: "🚲 Bicycle",
     "travel-href": "https://emojipedia.org/bicycle/",
     emoji: "🚲",
-    "emoji-name": "🚲 Bicycle",
+    emojiName: "🚲 Bicycle",
     description:
       "A bicycle, sometimes called a push bike, used for transport or sport.",
   },
@@ -481,7 +481,7 @@ const travel = [
     travel: "🛺 Auto Rickshaw",
     "travel-href": "https://emojipedia.org/auto-rickshaw/",
     emoji: "🛺",
-    "emoji-name": "🛺 Auto Rickshaw",
+    emojiName: "🛺 Auto Rickshaw",
     description:
       "An auto rickshaw, often referred to as a tuk tuk. This motorized version of a cycle rickshaw is used for transport in many regions of the world. Generally this emoji has three wheels and open sides without doors.",
   },
@@ -491,7 +491,7 @@ const travel = [
     travel: "🛵 Motor Scooter",
     "travel-href": "https://emojipedia.org/motor-scooter/",
     emoji: "🛵",
-    "emoji-name": "🛵 Motor Scooter",
+    emojiName: "🛵 Motor Scooter",
     description:
       "A motor scooter, which may be displayed as any type of motorbike with or without a step-through frame. Distinct from the racing motorcycle, which is used for sport, not transport.",
   },
@@ -501,7 +501,7 @@ const travel = [
     travel: "🏍️ Motorcycle",
     "travel-href": "https://emojipedia.org/motorcycle/",
     emoji: "🏍️",
-    "emoji-name": "🏍️ Motorcycle",
+    emojiName: "🏍️ Motorcycle",
     description:
       "A motorcycle, otherwise known as a motorbike used for sport/racing purposes. For a transport-based motorcycle, use a motor scooter.",
   },
@@ -511,7 +511,7 @@ const travel = [
     travel: "🏎️ Racing Car",
     "travel-href": "https://emojipedia.org/racing-car/",
     emoji: "🏎️",
-    "emoji-name": "🏎️ Racing Car",
+    emojiName: "🏎️ Racing Car",
     description:
       "A racing car which appears as a formula one vehicle or rally car on most platforms. Generally displayed in red.",
   },
@@ -521,7 +521,7 @@ const travel = [
     travel: "🚜 Tractor",
     "travel-href": "https://emojipedia.org/tractor/",
     emoji: "🚜",
-    "emoji-name": "🚜 Tractor",
+    emojiName: "🚜 Tractor",
     description:
       "A tractor, may be used by a farmer or other occupation on the land.",
   },
@@ -531,7 +531,7 @@ const travel = [
     travel: "🚛 Articulated Lorry",
     "travel-href": "https://emojipedia.org/articulated-lorry/",
     emoji: "🚛",
-    "emoji-name": "🚛 Articulated Lorry",
+    emojiName: "🚛 Articulated Lorry",
     description:
       "Articulated Lorry was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -541,7 +541,7 @@ const travel = [
     travel: "🚚 Delivery Truck",
     "travel-href": "https://emojipedia.org/delivery-truck/",
     emoji: "🚚",
-    "emoji-name": "🚚 Delivery Truck",
+    emojiName: "🚚 Delivery Truck",
     description:
       "Delivery Truck was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -551,7 +551,7 @@ const travel = [
     travel: "🛻 Pickup Truck",
     "travel-href": "https://emojipedia.org/pickup-truck/",
     emoji: "🛻",
-    "emoji-name": "🛻 Pickup Truck",
+    emojiName: "🛻 Pickup Truck",
     description:
       "A red or turquoise pickup truck. Used to talk about trucks or modes of transportation in general.",
   },
@@ -561,7 +561,7 @@ const travel = [
     travel: "🚙 Sport Utility Vehicle",
     "travel-href": "https://emojipedia.org/sport-utility-vehicle/",
     emoji: "🚙",
-    "emoji-name": "🚙 Sport Utility Vehicle",
+    emojiName: "🚙 Sport Utility Vehicle",
     description:
       "A blue or green Sport Utility Vehicle or station wagon, often with a spare tire on the back. Commonly used as a generic blue or green car.",
   },
@@ -571,7 +571,7 @@ const travel = [
     travel: "🚘 Oncoming Automobile",
     "travel-href": "https://emojipedia.org/oncoming-automobile/",
     emoji: "🚘",
-    "emoji-name": "🚘 Oncoming Automobile",
+    emojiName: "🚘 Oncoming Automobile",
     description:
       "A car being shown from the front. The windscreen and hood (bonnet in British English) of the car can be seen facing forward.",
   },
@@ -581,7 +581,7 @@ const travel = [
     travel: "🚗 Automobile",
     "travel-href": "https://emojipedia.org/automobile/",
     emoji: "🚗",
-    "emoji-name": "🚗 Automobile",
+    emojiName: "🚗 Automobile",
     description:
       "A car shown from the side, facing right-to-left. Appears as a red car on almost all platforms (which goes faster), though earlier Google designs displayed the vehicle as either silver or blue.",
   },
@@ -591,7 +591,7 @@ const travel = [
     travel: "🚖 Oncoming Taxi",
     "travel-href": "https://emojipedia.org/oncoming-taxi/",
     emoji: "🚖",
-    "emoji-name": "🚖 Oncoming Taxi",
+    emojiName: "🚖 Oncoming Taxi",
     description:
       "A yellow taxicab, iconically seen in New York City. Shown from the front, as opposed to the taxi emoji which displays the side of the vehicle.",
   },
@@ -601,7 +601,7 @@ const travel = [
     travel: "🚕 Taxi",
     "travel-href": "https://emojipedia.org/taxi/",
     emoji: "🚕",
-    "emoji-name": "🚕 Taxi",
+    emojiName: "🚕 Taxi",
     description:
       "A yellow taxicab, iconically seen in New York City. Shown from the side, as opposed to the oncoming taxi emoji.",
   },
@@ -611,7 +611,7 @@ const travel = [
     travel: "🚔 Oncoming Police Car",
     "travel-href": "https://emojipedia.org/oncoming-police-car/",
     emoji: "🚔",
-    "emoji-name": "🚔 Oncoming Police Car",
+    emojiName: "🚔 Oncoming Police Car",
     description: "A police car, shown with an emergency light on the top.",
   },
   {
@@ -620,7 +620,7 @@ const travel = [
     travel: "🚓 Police Car",
     "travel-href": "https://emojipedia.org/police-car/",
     emoji: "🚓",
-    "emoji-name": "🚓 Police Car",
+    emojiName: "🚓 Police Car",
     description: "A police car, shown with an emergency light on the top.",
   },
   {
@@ -629,7 +629,7 @@ const travel = [
     travel: "🚒 Fire Engine",
     "travel-href": "https://emojipedia.org/fire-engine/",
     emoji: "🚒",
-    "emoji-name": "🚒 Fire Engine",
+    emojiName: "🚒 Fire Engine",
     description:
       "A red fire truck, an essential part of emergency services along with a police car or ambulance.",
   },
@@ -639,7 +639,7 @@ const travel = [
     travel: "🚑 Ambulance",
     "travel-href": "https://emojipedia.org/ambulance/",
     emoji: "🚑",
-    "emoji-name": "🚑 Ambulance",
+    emojiName: "🚑 Ambulance",
     description:
       "An ambulance, used to transport patients between their home and the hospital.",
   },
@@ -649,7 +649,7 @@ const travel = [
     travel: "🚐 Minibus",
     "travel-href": "https://emojipedia.org/minibus/",
     emoji: "🚐",
-    "emoji-name": "🚐 Minibus",
+    emojiName: "🚐 Minibus",
     description:
       "A small bus or minivan designed to carry fewer people than a full-sized bus. Displayed in white on most platforms (green on Facebook).",
   },
@@ -659,7 +659,7 @@ const travel = [
     travel: "🚎 Trolleybus",
     "travel-href": "https://emojipedia.org/trolleybus/",
     emoji: "🚎",
-    "emoji-name": "🚎 Trolleybus",
+    emojiName: "🚎 Trolleybus",
     description:
       "A type of bus that uses overhead electrical wires for power. Appears similar to a cross between a bus and a tram car.",
   },
@@ -669,7 +669,7 @@ const travel = [
     travel: "🚍 Oncoming Bus",
     "travel-href": "https://emojipedia.org/oncoming-bus/",
     emoji: "🚍",
-    "emoji-name": "🚍 Oncoming Bus",
+    emojiName: "🚍 Oncoming Bus",
     description:
       "The front of a bus, showing the windscreen, as well as wing mirrors in some versions of this emoji.",
   },
@@ -679,7 +679,7 @@ const travel = [
     travel: "🚌 Bus",
     "travel-href": "https://emojipedia.org/bus/",
     emoji: "🚌",
-    "emoji-name": "🚌 Bus",
+    emojiName: "🚌 Bus",
     description:
       "A bus used for public transport in cities and towns. Could also be used as a school bus.",
   },
@@ -689,7 +689,7 @@ const travel = [
     travel: "🚋 Tram Car",
     "travel-href": "https://emojipedia.org/tram-car/",
     emoji: "🚋",
-    "emoji-name": "🚋 Tram Car",
+    emojiName: "🚋 Tram Car",
     description:
       "A form of public transport on rails, usually found on streets in cities or other urban areas. For short or medium-length journeys.",
   },
@@ -699,7 +699,7 @@ const travel = [
     travel: "🚞 Mountain Railway",
     "travel-href": "https://emojipedia.org/mountain-railway/",
     emoji: "🚞",
-    "emoji-name": "🚞 Mountain Railway",
+    emojiName: "🚞 Mountain Railway",
     description: "A train and railway in the mountains.",
   },
   {
@@ -708,7 +708,7 @@ const travel = [
     travel: "🚝 Monorail",
     "travel-href": "https://emojipedia.org/monorail/",
     emoji: "🚝",
-    "emoji-name": "🚝 Monorail",
+    emojiName: "🚝 Monorail",
     description:
       "Similar to a train, but running on a single track. Monorails are often found at theme parks, or other tourist destinations.",
   },
@@ -718,7 +718,7 @@ const travel = [
     travel: "🚊 Tram",
     "travel-href": "https://emojipedia.org/tram/",
     emoji: "🚊",
-    "emoji-name": "🚊 Tram",
+    emojiName: "🚊 Tram",
     description:
       "A form of public transport on rails, usually found on streets in cities or other urban areas. For short or medium-length journeys.",
   },
@@ -728,7 +728,7 @@ const travel = [
     travel: "🚉 Station",
     "travel-href": "https://emojipedia.org/station/",
     emoji: "🚉",
-    "emoji-name": "🚉 Station",
+    emojiName: "🚉 Station",
     description:
       "A station, presumed to be a train station. Displays a train alongside a platform, where passengers can board.",
   },
@@ -738,7 +738,7 @@ const travel = [
     travel: "🚈 Light Rail",
     "travel-href": "https://emojipedia.org/light-rail/",
     emoji: "🚈",
-    "emoji-name": "🚈 Light Rail",
+    emojiName: "🚈 Light Rail",
     description:
       "A form of public transport similar to a tram, but running on a track or network separated from cars and other types of traffic.",
   },
@@ -748,7 +748,7 @@ const travel = [
     travel: "🚇 Metro",
     "travel-href": "https://emojipedia.org/metro/",
     emoji: "🚇",
-    "emoji-name": "🚇 Metro",
+    emojiName: "🚇 Metro",
     description:
       "A metro: frequent underground train found in built-up areas with high populations.",
   },
@@ -758,7 +758,7 @@ const travel = [
     travel: "🚆 Train",
     "travel-href": "https://emojipedia.org/train/",
     emoji: "🚆",
-    "emoji-name": "🚆 Train",
+    emojiName: "🚆 Train",
     description:
       "A train, of no specified type. Due to the presence of a steam train and fast train emoji, this is likely to be a regular electrified or diesel passenger train.",
   },
@@ -768,7 +768,7 @@ const travel = [
     travel: "🚅 Bullet Train",
     "travel-href": "https://emojipedia.org/bullet-train/",
     emoji: "🚅",
-    "emoji-name": "🚅 Bullet Train",
+    emojiName: "🚅 Bullet Train",
     description:
       "A high speed train, designed to cover long distances at high speed. Also features a streamlined bullet nose, often used in reference to the Shinkansen in Japan.",
   },
@@ -778,7 +778,7 @@ const travel = [
     travel: "🚄 High-Speed Train",
     "travel-href": "https://emojipedia.org/high-speed-train/",
     emoji: "🚄",
-    "emoji-name": "🚄 High-Speed Train",
+    emojiName: "🚄 High-Speed Train",
     description:
       "A high speed train, designed to cover long distances at high speed.",
   },
@@ -788,7 +788,7 @@ const travel = [
     travel: "🚃 Railway Car",
     "travel-href": "https://emojipedia.org/railway-car/",
     emoji: "🚃",
-    "emoji-name": "🚃 Railway Car",
+    emojiName: "🚃 Railway Car",
     description:
       "A railway (railroad) car (carriage) that is generally pulled along a railway line by a locomotive. Shown with a pantograph above the carriage on many platforms which makes it look more like a tram car.",
   },
@@ -798,7 +798,7 @@ const travel = [
     travel: "🚂 Locomotive",
     "travel-href": "https://emojipedia.org/locomotive/",
     emoji: "🚂",
-    "emoji-name": "🚂 Locomotive",
+    emojiName: "🚂 Locomotive",
     description:
       "A steam train, powered by coal or wood. An early type of locomotive, now mostly replaced by electric or diesel trains.",
   },
@@ -808,7 +808,7 @@ const travel = [
     travel: "🎢 Roller Coaster",
     "travel-href": "https://emojipedia.org/roller-coaster/",
     emoji: "🎢",
-    "emoji-name": "🎢 Roller Coaster",
+    emojiName: "🎢 Roller Coaster",
     description:
       "A roller coaster in a theme park going down a dip in the ride. Three carriages can be seen with two people in each red carriage.",
   },
@@ -818,7 +818,7 @@ const travel = [
     travel: "🎡 Ferris Wheel",
     "travel-href": "https://emojipedia.org/ferris-wheel/",
     emoji: "🎡",
-    "emoji-name": "🎡 Ferris Wheel",
+    emojiName: "🎡 Ferris Wheel",
     description: "A large rotating wheel, often found at a carnival or fair.",
   },
   {
@@ -827,7 +827,7 @@ const travel = [
     travel: "🛝 Playground Slide",
     "travel-href": "https://emojipedia.org/playground-slide/",
     emoji: "🛝",
-    "emoji-name": "🛝 Playground Slide",
+    emojiName: "🛝 Playground Slide",
     description: "A slide with a ladder, as seen in children's playgrounds.",
   },
   {
@@ -836,7 +836,7 @@ const travel = [
     travel: "🎠 Carousel Horse",
     "travel-href": "https://emojipedia.org/carousel-horse/",
     emoji: "🎠",
-    "emoji-name": "🎠 Carousel Horse",
+    emojiName: "🎠 Carousel Horse",
     description:
       "A wooden painted horse, found on the carousel at a carnival. Faces to the left-of screen.",
   },
@@ -846,7 +846,7 @@ const travel = [
     travel: "🌉 Bridge at Night",
     "travel-href": "https://emojipedia.org/bridge-at-night/",
     emoji: "🌉",
-    "emoji-name": "🌉 Bridge at Night",
+    emojiName: "🌉 Bridge at Night",
     description: "A lit-up bridge, shown at night.",
   },
   {
@@ -855,7 +855,7 @@ const travel = [
     travel: "🌇 Sunset",
     "travel-href": "https://emojipedia.org/sunset/",
     emoji: "🌇",
-    "emoji-name": "🌇 Sunset",
+    emojiName: "🌇 Sunset",
     description:
       "A beautiful view, featuring an orange sky, with the sun setting over the buildings of a city skyline.",
   },
@@ -865,7 +865,7 @@ const travel = [
     travel: "🌆 Cityscape at Dusk",
     "travel-href": "https://emojipedia.org/cityscape-at-dusk/",
     emoji: "🌆",
-    "emoji-name": "🌆 Cityscape at Dusk",
+    emojiName: "🌆 Cityscape at Dusk",
     description:
       "A view of city buildings as the last light disappears from the sky. An orange (or blue) glow lingers, before the stars of the night sky become visible.",
   },
@@ -875,7 +875,7 @@ const travel = [
     travel: "🌅 Sunrise",
     "travel-href": "https://emojipedia.org/sunrise/",
     emoji: "🌅",
-    "emoji-name": "🌅 Sunrise",
+    emojiName: "🌅 Sunrise",
     description:
       "A sun rising, early in the morning. Can be difficult to distinguish from a sunset in some versions of this artwork.",
   },
@@ -885,7 +885,7 @@ const travel = [
     travel: "🌄 Sunrise Over Mountains",
     "travel-href": "https://emojipedia.org/sunrise-over-mountains/",
     emoji: "🌄",
-    "emoji-name": "🌄 Sunrise Over Mountains",
+    emojiName: "🌄 Sunrise Over Mountains",
     description: "The sun rising over a mountain range, early in the morning.",
   },
   {
@@ -894,7 +894,7 @@ const travel = [
     travel: "🏙️ Cityscape",
     "travel-href": "https://emojipedia.org/cityscape/",
     emoji: "🏙️",
-    "emoji-name": "🏙️ Cityscape",
+    emojiName: "🏙️ Cityscape",
     description:
       "Cityscape was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -904,7 +904,7 @@ const travel = [
     travel: "🌃 Night with Stars",
     "travel-href": "https://emojipedia.org/night-with-stars/",
     emoji: "🌃",
-    "emoji-name": "🌃 Night with Stars",
+    emojiName: "🌃 Night with Stars",
     description:
       "A night sky with stars, depicted on major platforms as a cityscape at night.",
   },
@@ -914,7 +914,7 @@ const travel = [
     travel: "🌁 Foggy",
     "travel-href": "https://emojipedia.org/foggy/",
     emoji: "🌁",
-    "emoji-name": "🌁 Foggy",
+    emojiName: "🌁 Foggy",
     description:
       "Foggy weather displayed as fog covering a bridge or cityscape, depending on the platform. For platforms that show a bridge, the red Golden Gate Bridge is generally displayed.",
   },
@@ -924,7 +924,7 @@ const travel = [
     travel: "⛺ Tent",
     "travel-href": "https://emojipedia.org/tent/",
     emoji: "⛺",
-    "emoji-name": "⛺ Tent",
+    emojiName: "⛺ Tent",
     description: "A tent, used for protection from wind and rain when camping.",
   },
   {
@@ -933,7 +933,7 @@ const travel = [
     travel: "⛲ Fountain",
     "travel-href": "https://emojipedia.org/fountain/",
     emoji: "⛲",
-    "emoji-name": "⛲ Fountain",
+    emojiName: "⛲ Fountain",
     description:
       "A water fountain, found in a park or other public space. Used for decorative purposes. A variety of styles of fountain are shown across different platforms.",
   },
@@ -943,7 +943,7 @@ const travel = [
     travel: "🕋 Kaaba",
     "travel-href": "https://emojipedia.org/kaaba/",
     emoji: "🕋",
-    "emoji-name": "🕋 Kaaba",
+    emojiName: "🕋 Kaaba",
     description:
       "A cube-shaped building located at the centre of the Al-Masjid al-Haram Mosque in Mecca.",
   },
@@ -953,7 +953,7 @@ const travel = [
     travel: "⛩️ Shinto Shrine",
     "travel-href": "https://emojipedia.org/shinto-shrine/",
     emoji: "⛩️",
-    "emoji-name": "⛩️ Shinto Shrine",
+    emojiName: "⛩️ Shinto Shrine",
     description:
       "A shrine used for the Japanese Shinto religion. This emoji generally displays the torii, which is the gate to the Shinto Shrine. The torii is generally a red colored structure, with a curved roof section above two posts.",
   },
@@ -963,7 +963,7 @@ const travel = [
     travel: "🕍 Synagogue",
     "travel-href": "https://emojipedia.org/synagogue/",
     emoji: "🕍",
-    "emoji-name": "🕍 Synagogue",
+    emojiName: "🕍 Synagogue",
     description:
       "A synague; a place of worship for followers of Judaism. Displayed with a Star of David on the front.",
   },
@@ -973,7 +973,7 @@ const travel = [
     travel: "🛕 Hindu Temple",
     "travel-href": "https://emojipedia.org/hindu-temple/",
     emoji: "🛕",
-    "emoji-name": "🛕 Hindu Temple",
+    emojiName: "🛕 Hindu Temple",
     description:
       "A Hindu temple or mandir; a place of worship for followers of Hinduism. Depicted on most platforms as a red, orange, or golden building with a tall spire.",
   },
@@ -983,7 +983,7 @@ const travel = [
     travel: "🕌 Mosque",
     "travel-href": "https://emojipedia.org/mosque/",
     emoji: "🕌",
-    "emoji-name": "🕌 Mosque",
+    emojiName: "🕌 Mosque",
     description:
       "A mosque building, a place of worship for followers of Islam. Shown with a domed roof and a minaret.",
   },
@@ -993,7 +993,7 @@ const travel = [
     travel: "⛪ Church",
     "travel-href": "https://emojipedia.org/church/",
     emoji: "⛪",
-    "emoji-name": "⛪ Church",
+    emojiName: "⛪ Church",
     description:
       "A church building, generally associated with Christian denominations. In addition quiet prayer, churches hold regular worship services, weddings, baptisms and funerals.",
   },
@@ -1003,7 +1003,7 @@ const travel = [
     travel: "🗽 Statue of Liberty",
     "travel-href": "https://emojipedia.org/statue-of-liberty/",
     emoji: "🗽",
-    "emoji-name": "🗽 Statue of Liberty",
+    emojiName: "🗽 Statue of Liberty",
     description:
       "The Statue of Liberty, often used as a depiction of New York City.",
   },
@@ -1013,7 +1013,7 @@ const travel = [
     travel: "🗼 Tokyo Tower",
     "travel-href": "https://emojipedia.org/tokyo-tower/",
     emoji: "🗼",
-    "emoji-name": "🗼 Tokyo Tower",
+    emojiName: "🗼 Tokyo Tower",
     description:
       "The Tokyo Tower is the second-tallest building in Japan, located in Minato, Tokyo.",
   },
@@ -1023,7 +1023,7 @@ const travel = [
     travel: "💒 Wedding",
     "travel-href": "https://emojipedia.org/wedding/",
     emoji: "💒",
-    "emoji-name": "💒 Wedding",
+    emojiName: "💒 Wedding",
     description:
       "An emoji to depict a wedding, displayed by most vendors as a Christian church and love hearts. Some platforms display a cross or bell on the building.",
   },
@@ -1033,7 +1033,7 @@ const travel = [
     travel: "🏰 Castle",
     "travel-href": "https://emojipedia.org/castle/",
     emoji: "🏰",
-    "emoji-name": "🏰 Castle",
+    emojiName: "🏰 Castle",
     description:
       "A castle, in a style that can be found in France and other parts of Europe.",
   },
@@ -1043,7 +1043,7 @@ const travel = [
     travel: "🏯 Japanese Castle",
     "travel-href": "https://emojipedia.org/japanese-castle/",
     emoji: "🏯",
-    "emoji-name": "🏯 Japanese Castle",
+    emojiName: "🏯 Japanese Castle",
     description:
       "A traditional Japanese Castle (城, shiro or jō), usually made from stone and wood.",
   },
@@ -1053,7 +1053,7 @@ const travel = [
     travel: "🏭 Factory",
     "travel-href": "https://emojipedia.org/factory/",
     emoji: "🏭",
-    "emoji-name": "🏭 Factory",
+    emojiName: "🏭 Factory",
     description:
       "An industrial factory, with flue-gas stacks releasing exhaust into the air.",
   },
@@ -1063,7 +1063,7 @@ const travel = [
     travel: "🏬 Department Store",
     "travel-href": "https://emojipedia.org/department-store/",
     emoji: "🏬",
-    "emoji-name": "🏬 Department Store",
+    emojiName: "🏬 Department Store",
     description:
       "A large department store, selling a range of products to the general public. Shown as a large building with a billboard.",
   },
@@ -1073,7 +1073,7 @@ const travel = [
     travel: "🏫 School",
     "travel-href": "https://emojipedia.org/school/",
     emoji: "🏫",
-    "emoji-name": "🏫 School",
+    emojiName: "🏫 School",
     description:
       "A school building with multiple storeys, and a clock on the front. A place that children, or teenagers attend for their education.",
   },
@@ -1083,7 +1083,7 @@ const travel = [
     travel: "🏪 Convenience Store",
     "travel-href": "https://emojipedia.org/convenience-store/",
     emoji: "🏪",
-    "emoji-name": "🏪 Convenience Store",
+    emojiName: "🏪 Convenience Store",
     description:
       "A shop that is generally open for longer hours than a regular supermarket, sometimes 24 hours per day.",
   },
@@ -1093,7 +1093,7 @@ const travel = [
     travel: "🏩 Love Hotel",
     "travel-href": "https://emojipedia.org/love-hotel/",
     emoji: "🏩",
-    "emoji-name": "🏩 Love Hotel",
+    emojiName: "🏩 Love Hotel",
     description:
       "A love hotel is a hotel that can be hired by the hour instead of as accommodation for the evening.",
   },
@@ -1103,7 +1103,7 @@ const travel = [
     travel: "🏨 Hotel",
     "travel-href": "https://emojipedia.org/hotel/",
     emoji: "🏨",
-    "emoji-name": "🏨 Hotel",
+    emojiName: "🏨 Hotel",
     description:
       "A hotel building, displayed on most platforms as a building with many windows and a letter H on the front.",
   },
@@ -1113,7 +1113,7 @@ const travel = [
     travel: "🏦 Bank",
     "travel-href": "https://emojipedia.org/bank/",
     emoji: "🏦",
-    "emoji-name": "🏦 Bank",
+    emojiName: "🏦 Bank",
     description:
       "A retail bank branch, where people can perform money-related tasks. Also a common location to find an ATM.",
   },
@@ -1123,7 +1123,7 @@ const travel = [
     travel: "🏥 Hospital",
     "travel-href": "https://emojipedia.org/hospital/",
     emoji: "🏥",
-    "emoji-name": "🏥 Hospital",
+    emojiName: "🏥 Hospital",
     description:
       "A place where people are taken to receive medical care. This hospital has a large red cross on the front, often used as a symbol for health care.",
   },
@@ -1133,7 +1133,7 @@ const travel = [
     travel: "🏤 Post Office",
     "travel-href": "https://emojipedia.org/post-office/",
     emoji: "🏤",
-    "emoji-name": "🏤 Post Office",
+    emojiName: "🏤 Post Office",
     description:
       "A European-style post office. A postal horn can be seen on the front, which is commonly found in the logos of European Postal Services.",
   },
@@ -1143,7 +1143,7 @@ const travel = [
     travel: "🏣 Japanese Post Office",
     "travel-href": "https://emojipedia.org/japanese-post-office/",
     emoji: "🏣",
-    "emoji-name": "🏣 Japanese Post Office",
+    emojiName: "🏣 Japanese Post Office",
     description:
       "A Japanese post office, featuring the 〒 Japanese postal mark on the front of the building.",
   },
@@ -1153,7 +1153,7 @@ const travel = [
     travel: "🏢 Office Building",
     "travel-href": "https://emojipedia.org/office-building/",
     emoji: "🏢",
-    "emoji-name": "🏢 Office Building",
+    emojiName: "🏢 Office Building",
     description:
       "A generic, high-rise office building. Generally found in cities, and most active during business hours.",
   },
@@ -1163,7 +1163,7 @@ const travel = [
     travel: "🏡 House with Garden",
     "travel-href": "https://emojipedia.org/house-with-garden/",
     emoji: "🏡",
-    "emoji-name": "🏡 House with Garden",
+    emojiName: "🏡 House with Garden",
     description:
       "A suburban-looking house, with a tree, flower, or shrubs around it in the garden.",
   },
@@ -1173,7 +1173,7 @@ const travel = [
     travel: "🏠 House",
     "travel-href": "https://emojipedia.org/house/",
     emoji: "🏠",
-    "emoji-name": "🏠 House",
+    emojiName: "🏠 House",
     description:
       "A house, otherwise known as a home when someone is living in it. Suitable for a couple or larger family, other perhaps housemates.",
   },
@@ -1183,7 +1183,7 @@ const travel = [
     travel: "🏚️ Derelict House",
     "travel-href": "https://emojipedia.org/derelict-house/",
     emoji: "🏚️",
-    "emoji-name": "🏚️ Derelict House",
+    emojiName: "🏚️ Derelict House",
     description:
       "A house which is unoccupied, and has become derelict. In a state of disrepair.",
   },
@@ -1193,7 +1193,7 @@ const travel = [
     travel: "🏘️ Houses",
     "travel-href": "https://emojipedia.org/houses/",
     emoji: "🏘️",
-    "emoji-name": "🏘️ Houses",
+    emojiName: "🏘️ Houses",
     description: "Multiple houses.",
   },
   {
@@ -1202,7 +1202,7 @@ const travel = [
     travel: "🛖 Hut",
     "travel-href": "https://emojipedia.org/hut/",
     emoji: "🛖",
-    "emoji-name": "🛖 Hut",
+    emojiName: "🛖 Hut",
     description:
       "A round hut with a thatched roof. Used to talk about huts, cottages, yurts, or homes in general.",
   },
@@ -1212,7 +1212,7 @@ const travel = [
     travel: "🏗️ Building Construction",
     "travel-href": "https://emojipedia.org/building-construction/",
     emoji: "🏗️",
-    "emoji-name": "🏗️ Building Construction",
+    emojiName: "🏗️ Building Construction",
     description:
       "A construction site generally depicted as a tower crane shown lifting steel or other building materials.",
   },
@@ -1222,7 +1222,7 @@ const travel = [
     travel: "🏛️ Classical Building",
     "travel-href": "https://emojipedia.org/classical-building/",
     emoji: "🏛️",
-    "emoji-name": "🏛️ Classical Building",
+    emojiName: "🏛️ Classical Building",
     description:
       "A building shown with columns in a classical style, sometimes used to represent a courthouse, town hall, post office or stock exchange.",
   },
@@ -1232,7 +1232,7 @@ const travel = [
     travel: "🏟️ Stadium",
     "travel-href": "https://emojipedia.org/stadium/",
     emoji: "🏟️",
-    "emoji-name": "🏟️ Stadium",
+    emojiName: "🏟️ Stadium",
     description:
       "A large capacity stadium, featuring a large amount of seating for sporting fans, or people attending other shows hosted by the stadium.",
   },
@@ -1242,7 +1242,7 @@ const travel = [
     travel: "🏞️ National Park",
     "travel-href": "https://emojipedia.org/national-park/",
     emoji: "🏞️",
-    "emoji-name": "🏞️ National Park",
+    emojiName: "🏞️ National Park",
     description:
       "A national park, generally displayed with mountains, a river or stream, and trees.",
   },
@@ -1252,7 +1252,7 @@ const travel = [
     travel: "🏝️ Desert Island",
     "travel-href": "https://emojipedia.org/desert-island/",
     emoji: "🏝️",
-    "emoji-name": "🏝️ Desert Island",
+    emojiName: "🏝️ Desert Island",
     description:
       "Desert Island was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -1262,7 +1262,7 @@ const travel = [
     travel: "🏜️ Desert",
     "travel-href": "https://emojipedia.org/desert/",
     emoji: "🏜️",
-    "emoji-name": "🏜️ Desert",
+    emojiName: "🏜️ Desert",
     description:
       "Desert was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015.",
   },
@@ -1272,7 +1272,7 @@ const travel = [
     travel: "🏖️ Beach with Umbrella",
     "travel-href": "https://emojipedia.org/beach-with-umbrella/",
     emoji: "🏖️",
-    "emoji-name": "🏖️ Beach with Umbrella",
+    emojiName: "🏖️ Beach with Umbrella",
     description:
       "A beach showing sand, and an umbrella for protection from the sun.",
   },
@@ -1282,7 +1282,7 @@ const travel = [
     travel: "🏕️ Camping",
     "travel-href": "https://emojipedia.org/camping/",
     emoji: "🏕️",
-    "emoji-name": "🏕️ Camping",
+    emojiName: "🏕️ Camping",
     description:
       "A campsite featuring a tent and a tree, and perhaps a campfire. Similar to the tent emoji.",
   },
@@ -1292,7 +1292,7 @@ const travel = [
     travel: "🗻 Mount Fuji",
     "travel-href": "https://emojipedia.org/mount-fuji/",
     emoji: "🗻",
-    "emoji-name": "🗻 Mount Fuji",
+    emojiName: "🗻 Mount Fuji",
     description:
       "Mount Fuji (called Fuji-san in Japan) is the largest mountain in Japan. Often seen with snow on the peak in colder months of the year.",
   },
@@ -1302,7 +1302,7 @@ const travel = [
     travel: "🌋 Volcano",
     "travel-href": "https://emojipedia.org/volcano/",
     emoji: "🌋",
-    "emoji-name": "🌋 Volcano",
+    emojiName: "🌋 Volcano",
     description: "A volcano, erupting with smoke and lava.",
   },
   {
@@ -1311,7 +1311,7 @@ const travel = [
     travel: "⛰️ Mountain",
     "travel-href": "https://emojipedia.org/mountain/",
     emoji: "⛰️",
-    "emoji-name": "⛰️ Mountain",
+    emojiName: "⛰️ Mountain",
     description:
       "A mountain shown with two peaks and blue sky. Similar to the snow capped mountain emoji.",
   },
@@ -1321,7 +1321,7 @@ const travel = [
     travel: "🏔️ Snow-Capped Mountain",
     "travel-href": "https://emojipedia.org/snow-capped-mountain/",
     emoji: "🏔️",
-    "emoji-name": "🏔️ Snow-Capped Mountain",
+    emojiName: "🏔️ Snow-Capped Mountain",
     description:
       "A mountain with snow resting at higher altitudes. Similar in appearance to the Mount Fuji emoji.",
   },
@@ -1331,7 +1331,7 @@ const travel = [
     travel: "🗾 Map of Japan",
     "travel-href": "https://emojipedia.org/map-of-japan/",
     emoji: "🗾",
-    "emoji-name": "🗾 Map of Japan",
+    emojiName: "🗾 Map of Japan",
     description:
       "Shows a map of the country of Japan, which is the only country to have its own emoji map. Other countries can be found on the various globe emojis, or the world map emoji.",
   },
@@ -1341,7 +1341,7 @@ const travel = [
     travel: "🚣 Person Rowing Boat",
     "travel-href": "https://emojipedia.org/person-rowing-boat/",
     emoji: "🚣",
-    "emoji-name": "🚣 Person Rowing Boat",
+    emojiName: "🚣 Person Rowing Boat",
     description:
       "A small rowboat suitable for a small number of people. Couples or families sometimes hire these as an activity on calm waters.",
   },

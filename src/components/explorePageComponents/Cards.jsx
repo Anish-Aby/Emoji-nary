@@ -5,9 +5,9 @@ export default function Cards(props) {
     <>
       <div className="explore-page-cards">
         <div className="explore-page-cards-emoji">{props.emoji}</div>
-        <div className="explore-page-cards-name">{props.emojiName}</div>
+        <div className="explore-page-cards-name">{props.eName}</div>
         <div className="explore-page-cards-description">
-          {props.emojiDescription}
+          {props.eDescription}
         </div>
       </div>
     </>

@@ -5,7 +5,7 @@ const symbols = [
     symbols: "🔲 Black Square Button",
     "symbols-href": "https://emojipedia.org/black-square-button/",
     emoji: "🔲",
-    "emoji-name": "🔲 Black Square Button",
+    emojiName: "🔲 Black Square Button",
     description:
       "Black Square Button was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -15,7 +15,7 @@ const symbols = [
     symbols: "🔳 White Square Button",
     "symbols-href": "https://emojipedia.org/white-square-button/",
     emoji: "🔳",
-    "emoji-name": "🔳 White Square Button",
+    emojiName: "🔳 White Square Button",
     description: "White Square Button.",
   },
   {
@@ -24,7 +24,7 @@ const symbols = [
     symbols: "🔘 Radio Button",
     "symbols-href": "https://emojipedia.org/radio-button/",
     emoji: "🔘",
-    "emoji-name": "🔘 Radio Button",
+    emojiName: "🔘 Radio Button",
     description:
       "A radio button user interface element, used in form fields with two or more choices. Differs from a checkbox, in that only one response can be selected.",
   },
@@ -34,7 +34,7 @@ const symbols = [
     symbols: "💠 Diamond with a Dot",
     "symbols-href": "https://emojipedia.org/diamond-with-a-dot/",
     emoji: "💠",
-    "emoji-name": "💠 Diamond with a Dot",
+    emojiName: "💠 Diamond with a Dot",
     description:
       "A glyph that is used for kawaii in Japan, resembling the shape of a flower.",
   },
@@ -44,7 +44,7 @@ const symbols = [
     symbols: "🔻 Red Triangle Pointed Down",
     "symbols-href": "https://emojipedia.org/red-triangle-pointed-down/",
     emoji: "🔻",
-    "emoji-name": "🔻 Red Triangle Pointed Down",
+    emojiName: "🔻 Red Triangle Pointed Down",
     description:
       "Red Triangle Pointed Down was approved as part of Unicode 6.0 in 2010 under the name “Down-Pointing Red Triangle” and added to Emoji 1.0 in 2015.",
   },
@@ -54,7 +54,7 @@ const symbols = [
     symbols: "🔺 Red Triangle Pointed Up",
     "symbols-href": "https://emojipedia.org/red-triangle-pointed-up/",
     emoji: "🔺",
-    "emoji-name": "🔺 Red Triangle Pointed Up",
+    emojiName: "🔺 Red Triangle Pointed Up",
     description:
       "Red Triangle Pointed Up was approved as part of Unicode 6.0 in 2010 under the name “Up-Pointing Red Triangle” and added to Emoji 1.0 in 2015.",
   },
@@ -64,7 +64,7 @@ const symbols = [
     symbols: "🔹 Small Blue Diamond",
     "symbols-href": "https://emojipedia.org/small-blue-diamond/",
     emoji: "🔹",
-    "emoji-name": "🔹 Small Blue Diamond",
+    emojiName: "🔹 Small Blue Diamond",
     description:
       "Small Blue Diamond was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -74,7 +74,7 @@ const symbols = [
     symbols: "🔸 Small Orange Diamond",
     "symbols-href": "https://emojipedia.org/small-orange-diamond/",
     emoji: "🔸",
-    "emoji-name": "🔸 Small Orange Diamond",
+    emojiName: "🔸 Small Orange Diamond",
     description: "A small version of the large orange diamond emoji.",
   },
   {
@@ -83,7 +83,7 @@ const symbols = [
     symbols: "🔷 Large Blue Diamond",
     "symbols-href": "https://emojipedia.org/large-blue-diamond/",
     emoji: "🔷",
-    "emoji-name": "🔷 Large Blue Diamond",
+    emojiName: "🔷 Large Blue Diamond",
     description:
       "Large Blue Diamond was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -93,7 +93,7 @@ const symbols = [
     symbols: "🔶 Large Orange Diamond",
     "symbols-href": "https://emojipedia.org/large-orange-diamond/",
     emoji: "🔶",
-    "emoji-name": "🔶 Large Orange Diamond",
+    emojiName: "🔶 Large Orange Diamond",
     description: "A larger version of the small orange diamond emoji.",
   },
   {
@@ -102,7 +102,7 @@ const symbols = [
     symbols: "▫️ White Small Square",
     "symbols-href": "https://emojipedia.org/white-small-square/",
     emoji: "▫️",
-    "emoji-name": "▫️ White Small Square",
+    emojiName: "▫️ White Small Square",
     description:
       "White Small Square was approved as part of Unicode 1.1 in 1993 and added to Emoji 1.0 in 2015.",
   },
@@ -112,7 +112,7 @@ const symbols = [
     symbols: "▪️ Black Small Square",
     "symbols-href": "https://emojipedia.org/black-small-square/",
     emoji: "▪️",
-    "emoji-name": "▪️ Black Small Square",
+    emojiName: "▪️ Black Small Square",
     description:
       "Black Small Square was approved as part of Unicode 1.1 in 1993 and added to Emoji 1.0 in 2015.",
   },
@@ -122,7 +122,7 @@ const symbols = [
     symbols: "◽ White Medium-Small Square",
     "symbols-href": "https://emojipedia.org/white-medium-small-square/",
     emoji: "◽",
-    "emoji-name": "◽ White Medium-Small Square",
+    emojiName: "◽ White Medium-Small Square",
     description:
       "White Medium-Small Square was approved as part of Unicode 3.2 in 2002 under the name “White Medium Small Square” and added to Emoji 1.0 in 2015.",
   },
@@ -132,7 +132,7 @@ const symbols = [
     symbols: "◾ Black Medium-Small Square",
     "symbols-href": "https://emojipedia.org/black-medium-small-square/",
     emoji: "◾",
-    "emoji-name": "◾ Black Medium-Small Square",
+    emojiName: "◾ Black Medium-Small Square",
     description:
       "Black Medium-Small Square was approved as part of Unicode 3.2 in 2002 under the name “Black Medium Small Square” and added to Emoji 1.0 in 2015.",
   },
@@ -142,7 +142,7 @@ const symbols = [
     symbols: "◻️ White Medium Square",
     "symbols-href": "https://emojipedia.org/white-medium-square/",
     emoji: "◻️",
-    "emoji-name": "◻️ White Medium Square",
+    emojiName: "◻️ White Medium Square",
     description:
       "White Medium Square was approved as part of Unicode 3.2 in 2002 and added to Emoji 1.0 in 2015.",
   },
@@ -152,7 +152,7 @@ const symbols = [
     symbols: "◼️ Black Medium Square",
     "symbols-href": "https://emojipedia.org/black-medium-square/",
     emoji: "◼️",
-    "emoji-name": "◼️ Black Medium Square",
+    emojiName: "◼️ Black Medium Square",
     description:
       "Black Medium Square was approved as part of Unicode 3.2 in 2002 and added to Emoji 1.0 in 2015.",
   },
@@ -162,7 +162,7 @@ const symbols = [
     symbols: "⬜ White Large Square",
     "symbols-href": "https://emojipedia.org/white-large-square/",
     emoji: "⬜",
-    "emoji-name": "⬜ White Large Square",
+    emojiName: "⬜ White Large Square",
     description:
       "A square shown in the shade of white. May be used to represent anything white.",
   },
@@ -172,7 +172,7 @@ const symbols = [
     symbols: "⬛ Black Large Square",
     "symbols-href": "https://emojipedia.org/black-large-square/",
     emoji: "⬛",
-    "emoji-name": "⬛ Black Large Square",
+    emojiName: "⬛ Black Large Square",
     description:
       "A square shown in the shade of black. May be used to represent anything black.",
   },
@@ -182,7 +182,7 @@ const symbols = [
     symbols: "🟫 Brown Square",
     "symbols-href": "https://emojipedia.org/large-brown-square/",
     emoji: "🟫",
-    "emoji-name": "🟫 Brown Square",
+    emojiName: "🟫 Brown Square",
     description:
       "A square shown in the color of brown. May be used to represent anything brown.",
   },
@@ -192,7 +192,7 @@ const symbols = [
     symbols: "🟪 Purple Square",
     "symbols-href": "https://emojipedia.org/large-purple-square/",
     emoji: "🟪",
-    "emoji-name": "🟪 Purple Square",
+    emojiName: "🟪 Purple Square",
     description:
       "A square shown in the color of purple. May be used to represent anything purple.",
   },
@@ -202,7 +202,7 @@ const symbols = [
     symbols: "🟦 Blue Square",
     "symbols-href": "https://emojipedia.org/large-blue-square/",
     emoji: "🟦",
-    "emoji-name": "🟦 Blue Square",
+    emojiName: "🟦 Blue Square",
     description:
       "A square shown in the color of blue. May be used to represent anything blue.",
   },
@@ -212,7 +212,7 @@ const symbols = [
     symbols: "🟩 Green Square",
     "symbols-href": "https://emojipedia.org/large-green-square/",
     emoji: "🟩",
-    "emoji-name": "🟩 Green Square",
+    emojiName: "🟩 Green Square",
     description:
       "A square shown in the color of green. May be used to represent anything green.",
   },
@@ -222,7 +222,7 @@ const symbols = [
     symbols: "🟨 Yellow Square",
     "symbols-href": "https://emojipedia.org/large-yellow-square/",
     emoji: "🟨",
-    "emoji-name": "🟨 Yellow Square",
+    emojiName: "🟨 Yellow Square",
     description:
       "A square shown in the color yellow. May be used to represent anything yellow, including a yellow penalty card in football (soccer).",
   },
@@ -232,7 +232,7 @@ const symbols = [
     symbols: "🟧 Orange Square",
     "symbols-href": "https://emojipedia.org/large-orange-square/",
     emoji: "🟧",
-    "emoji-name": "🟧 Orange Square",
+    emojiName: "🟧 Orange Square",
     description:
       "A square shown in the color of orange. May be used to represent anything orange.",
   },
@@ -242,7 +242,7 @@ const symbols = [
     symbols: "🟥 Red Square",
     "symbols-href": "https://emojipedia.org/large-red-square/",
     emoji: "🟥",
-    "emoji-name": "🟥 Red Square",
+    emojiName: "🟥 Red Square",
     description:
       "A square shown in the color red. May be used to represent anything red, including a red penalty card in football (soccer).",
   },
@@ -252,7 +252,7 @@ const symbols = [
     symbols: "⚪ White Circle",
     "symbols-href": "https://emojipedia.org/white-circle/",
     emoji: "⚪",
-    "emoji-name": "⚪ White Circle",
+    emojiName: "⚪ White Circle",
     description:
       "White Circle was approved as part of Unicode 4.1 in 2005 under the name “Medium White Circle” and added to Emoji 1.0 in 2015.",
   },
@@ -262,7 +262,7 @@ const symbols = [
     symbols: "⚫ Black Circle",
     "symbols-href": "https://emojipedia.org/black-circle/",
     emoji: "⚫",
-    "emoji-name": "⚫ Black Circle",
+    emojiName: "⚫ Black Circle",
     description:
       "Black Circle was approved as part of Unicode 4.1 in 2005 under the name “Medium Black Circle” and added to Emoji 1.0 in 2015.",
   },
@@ -272,7 +272,7 @@ const symbols = [
     symbols: "🟤 Brown Circle",
     "symbols-href": "https://emojipedia.org/large-brown-circle/",
     emoji: "🟤",
-    "emoji-name": "🟤 Brown Circle",
+    emojiName: "🟤 Brown Circle",
     description:
       "Brown Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Brown Circle” and added to Emoji 12.0 in 2019.",
   },
@@ -282,7 +282,7 @@ const symbols = [
     symbols: "🟣 Purple Circle",
     "symbols-href": "https://emojipedia.org/large-purple-circle/",
     emoji: "🟣",
-    "emoji-name": "🟣 Purple Circle",
+    emojiName: "🟣 Purple Circle",
     description:
       "Purple Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Purple Circle” and added to Emoji 12.0 in 2019.",
   },
@@ -292,7 +292,7 @@ const symbols = [
     symbols: "🔵 Blue Circle",
     "symbols-href": "https://emojipedia.org/large-blue-circle/",
     emoji: "🔵",
-    "emoji-name": "🔵 Blue Circle",
+    emojiName: "🔵 Blue Circle",
     description:
       "Blue Circle was approved as part of Unicode 6.0 in 2010 under the name “Large Blue Circle” and added to Emoji 1.0 in 2015.",
   },
@@ -302,7 +302,7 @@ const symbols = [
     symbols: "🟢 Green Circle",
     "symbols-href": "https://emojipedia.org/large-green-circle/",
     emoji: "🟢",
-    "emoji-name": "🟢 Green Circle",
+    emojiName: "🟢 Green Circle",
     description:
       "Green Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Green Circle” and added to Emoji 12.0 in 2019.",
   },
@@ -312,7 +312,7 @@ const symbols = [
     symbols: "🟡 Yellow Circle",
     "symbols-href": "https://emojipedia.org/large-yellow-circle/",
     emoji: "🟡",
-    "emoji-name": "🟡 Yellow Circle",
+    emojiName: "🟡 Yellow Circle",
     description:
       "Yellow Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Yellow Circle” and added to Emoji 12.0 in 2019.",
   },
@@ -322,7 +322,7 @@ const symbols = [
     symbols: "🟠 Orange Circle",
     "symbols-href": "https://emojipedia.org/large-orange-circle/",
     emoji: "🟠",
-    "emoji-name": "🟠 Orange Circle",
+    emojiName: "🟠 Orange Circle",
     description:
       "Orange Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Orange Circle” and added to Emoji 12.0 in 2019.",
   },
@@ -332,7 +332,7 @@ const symbols = [
     symbols: "🔴 Red Circle",
     "symbols-href": "https://emojipedia.org/large-red-circle/",
     emoji: "🔴",
-    "emoji-name": "🔴 Red Circle",
+    emojiName: "🔴 Red Circle",
     description:
       "Red Circle was approved as part of Unicode 6.0 in 2010 under the name “Large Red Circle” and added to Emoji 1.0 in 2015.",
   },
@@ -342,7 +342,7 @@ const symbols = [
     symbols: "🈵 Japanese “No Vacancy” Button",
     "symbols-href": "https://emojipedia.org/japanese-no-vacancy-button/",
     emoji: "🈵",
-    "emoji-name": "🈵 Japanese “No Vacancy” Button",
+    emojiName: "🈵 Japanese “No Vacancy” Button",
     description:
       "This emoji means “full” in Japanese, usually used to denote “full capacity” such as a gas/petrol tank on a car or pre-paid phone card.",
   },
@@ -352,7 +352,7 @@ const symbols = [
     symbols: "🈺 Japanese “Open for Business” Button",
     "symbols-href": "https://emojipedia.org/japanese-open-for-business-button/",
     emoji: "🈺",
-    "emoji-name": "🈺 Japanese “Open for Business” Button",
+    emojiName: "🈺 Japanese “Open for Business” Button",
     description:
       "Means “work” in Japanese.  This Emoji used to mean “open for business” and precedes business hours.",
   },
@@ -362,7 +362,7 @@ const symbols = [
     symbols: "㊙️ Japanese “Secret” Button",
     "symbols-href": "https://emojipedia.org/japanese-secret-button/",
     emoji: "㊙️",
-    "emoji-name": "㊙️ Japanese “Secret” Button",
+    emojiName: "㊙️ Japanese “Secret” Button",
     description:
       "Japanese “Secret” Button was approved as part of Unicode 1.1 in 1993 under the name “Circled Ideograph Secret” and added to Emoji 1.0 in 2015.",
   },
@@ -372,7 +372,7 @@ const symbols = [
     symbols: "㊗️ Japanese “Congratulations” Button",
     "symbols-href": "https://emojipedia.org/japanese-congratulations-button/",
     emoji: "㊗️",
-    "emoji-name": "㊗️ Japanese “Congratulations” Button",
+    emojiName: "㊗️ Japanese “Congratulations” Button",
     description:
       'Translated from Japanese, this means "congratulations" or "pray for happiness".',
   },
@@ -382,7 +382,7 @@ const symbols = [
     symbols: "🈳 Japanese “Vacancy” Button",
     "symbols-href": "https://emojipedia.org/japanese-vacancy-button/",
     emoji: "🈳",
-    "emoji-name": "🈳 Japanese “Vacancy” Button",
+    emojiName: "🈳 Japanese “Vacancy” Button",
     description:
       "This 空 character means empty and available in Japanese. This is used in the context of an empty parking space or a vacant hotel room.",
   },
@@ -392,7 +392,7 @@ const symbols = [
     symbols: "🈴 Japanese “Passing Grade” Button",
     "symbols-href": "https://emojipedia.org/japanese-passing-grade-button/",
     emoji: "🈴",
-    "emoji-name": "🈴 Japanese “Passing Grade” Button",
+    emojiName: "🈴 Japanese “Passing Grade” Button",
     description:
       "Means “agreement” in Japanese. More literally, it means to unite, or join together.",
   },
@@ -402,7 +402,7 @@ const symbols = [
     symbols: "🈸 Japanese “Application” Button",
     "symbols-href": "https://emojipedia.org/japanese-application-button/",
     emoji: "🈸",
-    "emoji-name": "🈸 Japanese “Application” Button",
+    emojiName: "🈸 Japanese “Application” Button",
     description: "This Emoji has two meanings.",
   },
   {
@@ -411,7 +411,7 @@ const symbols = [
     symbols: "🉑 Japanese “Acceptable” Button",
     "symbols-href": "https://emojipedia.org/japanese-acceptable-button/",
     emoji: "🉑",
-    "emoji-name": "🉑 Japanese “Acceptable” Button",
+    emojiName: "🉑 Japanese “Acceptable” Button",
     description:
       "Japanese “Acceptable” Button was approved as part of Unicode 6.0 in 2010 under the name “Circled Ideograph Accept” and added to Emoji 1.0 in 2015.",
   },
@@ -421,7 +421,7 @@ const symbols = [
     symbols: "🈲 Japanese “Prohibited” Button",
     "symbols-href": "https://emojipedia.org/japanese-prohibited-button/",
     emoji: "🈲",
-    "emoji-name": "🈲 Japanese “Prohibited” Button",
+    emojiName: "🈲 Japanese “Prohibited” Button",
     description: "This Emoji means “prohibit, restrict or forbid” in Japanese.",
   },
   {
@@ -430,7 +430,7 @@ const symbols = [
     symbols: "🈚 Japanese “Free of Charge” Button",
     "symbols-href": "https://emojipedia.org/japanese-free-of-charge-button/",
     emoji: "🈚",
-    "emoji-name": "🈚 Japanese “Free of Charge” Button",
+    emojiName: "🈚 Japanese “Free of Charge” Button",
     description: "This means to lack, or have none of something.",
   },
   {
@@ -439,7 +439,7 @@ const symbols = [
     symbols: "🈹 Japanese “Discount” Button",
     "symbols-href": "https://emojipedia.org/japanese-discount-button/",
     emoji: "🈹",
-    "emoji-name": "🈹 Japanese “Discount” Button",
+    emojiName: "🈹 Japanese “Discount” Button",
     description:
       "Symbol for a sale, or bargain prices in Japan (“cut prices”). Literally translated, this character means to cut or divide.",
   },
@@ -449,7 +449,7 @@ const symbols = [
     symbols: "🉐 Japanese “Bargain” Button",
     "symbols-href": "https://emojipedia.org/japanese-bargain-button/",
     emoji: "🉐",
-    "emoji-name": "🉐 Japanese “Bargain” Button",
+    emojiName: "🉐 Japanese “Bargain” Button",
     description: "Denotes a “good bargain” in Japanese.",
   },
   {
@@ -458,7 +458,7 @@ const symbols = [
     symbols: "🈯 Japanese “Reserved” Button",
     "symbols-href": "https://emojipedia.org/japanese-reserved-button/",
     emoji: "🈯",
-    "emoji-name": "🈯 Japanese “Reserved” Button",
+    emojiName: "🈯 Japanese “Reserved” Button",
     description:
       "This character translates as meaning a finger or toe pointing to indicate a certain direction.",
   },
@@ -469,7 +469,7 @@ const symbols = [
     "symbols-href":
       "https://emojipedia.org/japanese-not-free-of-charge-button/",
     emoji: "🈶",
-    "emoji-name": "🈶 Japanese “Not Free of Charge” Button",
+    emojiName: "🈶 Japanese “Not Free of Charge” Button",
     description: "This emoji means to own or posses.",
   },
   {
@@ -478,7 +478,7 @@ const symbols = [
     symbols: "🈷️ Japanese “Monthly Amount” Button",
     "symbols-href": "https://emojipedia.org/japanese-monthly-amount-button/",
     emoji: "🈷️",
-    "emoji-name": "🈷️ Japanese “Monthly Amount” Button",
+    emojiName: "🈷️ Japanese “Monthly Amount” Button",
     description:
       "CJK Ideographs are characters used in Chinese, Japanese and Korean languages. Their writing systems all completely or partly use Chinese characters.",
   },
@@ -488,7 +488,7 @@ const symbols = [
     symbols: "🈂️ Japanese “Service Charge” Button",
     "symbols-href": "https://emojipedia.org/japanese-service-charge-button/",
     emoji: "🈂️",
-    "emoji-name": "🈂️ Japanese “Service Charge” Button",
+    emojiName: "🈂️ Japanese “Service Charge” Button",
     description:
       'Translates as meaning complimentary, or free of charge. For example, a drink that is given "on the house" to a regular customer.',
   },
@@ -498,7 +498,7 @@ const symbols = [
     symbols: "🈁 Japanese “Here” Button",
     "symbols-href": "https://emojipedia.org/japanese-here-button/",
     emoji: "🈁",
-    "emoji-name": "🈁 Japanese “Here” Button",
+    emojiName: "🈁 Japanese “Here” Button",
     description: "Means “Here” in Japanese, referring to a destination.",
   },
   {
@@ -507,7 +507,7 @@ const symbols = [
     symbols: "🆚 Vs Button",
     "symbols-href": "https://emojipedia.org/vs-button/",
     emoji: "🆚",
-    "emoji-name": "🆚 Vs Button",
+    emojiName: "🆚 Vs Button",
     description:
       "Vs Button was approved as part of Unicode 6.0 in 2010 under the name “Squared Vs” and added to Emoji 1.0 in 2015.",
   },
@@ -517,7 +517,7 @@ const symbols = [
     symbols: "🆙 Up! Button",
     "symbols-href": "https://emojipedia.org/up-button/",
     emoji: "🆙",
-    "emoji-name": "🆙 Up! Button",
+    emojiName: "🆙 Up! Button",
     description:
       "The word up with an exclamation point after it, shown enclosed in a square. Originally intended to denote leveling up in a game.",
   },
@@ -527,7 +527,7 @@ const symbols = [
     symbols: "🆘 SOS Button",
     "symbols-href": "https://emojipedia.org/sos-button/",
     emoji: "🆘",
-    "emoji-name": "🆘 SOS Button",
+    emojiName: "🆘 SOS Button",
     description:
       "SOS is the description for the distress signal in Morse Code. This emoji means SOS or “emergency”.",
   },
@@ -537,7 +537,7 @@ const symbols = [
     symbols: "🅿️ P Button",
     "symbols-href": "https://emojipedia.org/p-button/",
     emoji: "🅿️",
-    "emoji-name": "🅿️ P Button",
+    emojiName: "🅿️ P Button",
     description:
       "Depicted by major emoji vendors as blue square with a white letter 'P' contained within it. Most often to represent a parking space or parking lot.",
   },
@@ -547,7 +547,7 @@ const symbols = [
     symbols: "🆗 OK Button",
     "symbols-href": "https://emojipedia.org/ok-button/",
     emoji: "🆗",
-    "emoji-name": "🆗 OK Button",
+    emojiName: "🆗 OK Button",
     description:
       "The letters OK, shown enclosed in a square. Meaning Okay, denoting approval. The opposite of the Squared NG Emoji.",
   },
@@ -557,7 +557,7 @@ const symbols = [
     symbols: "🅾️ O Button (Blood Type)",
     "symbols-href": "https://emojipedia.org/o-button-blood-type/",
     emoji: "🅾️",
-    "emoji-name": "🅾️ O Button (Blood Type)",
+    emojiName: "🅾️ O Button (Blood Type)",
     description:
       "A symbol representing Blood Type O. Displayed as the letter O on a red background.",
   },
@@ -567,7 +567,7 @@ const symbols = [
     symbols: "🆖 NG Button",
     "symbols-href": "https://emojipedia.org/ng-button/",
     emoji: "🆖",
-    "emoji-name": "🆖 NG Button",
+    emojiName: "🆖 NG Button",
     description:
       "The letters NG, shown enclosed in a square, which are an acronym for the words No Good.",
   },
@@ -577,7 +577,7 @@ const symbols = [
     symbols: "🆕 New Button",
     "symbols-href": "https://emojipedia.org/new-button/",
     emoji: "🆕",
-    "emoji-name": "🆕 New Button",
+    emojiName: "🆕 New Button",
     description: "The word new, shown enclosed in a square.",
   },
   {
@@ -586,7 +586,7 @@ const symbols = [
     symbols: "Ⓜ️ Circled M",
     "symbols-href": "https://emojipedia.org/circled-m/",
     emoji: "Ⓜ️",
-    "emoji-name": "Ⓜ️ Circled M",
+    emojiName: "Ⓜ️ Circled M",
     description:
       "The letter M in a circle, commonly used in to identify a Metro (subway, underground train) station in a city area.",
   },
@@ -596,7 +596,7 @@ const symbols = [
     symbols: "🆔 ID Button",
     "symbols-href": "https://emojipedia.org/id-button/",
     emoji: "🆔",
-    "emoji-name": "🆔 ID Button",
+    emojiName: "🆔 ID Button",
     description: "The letters ID in a square.",
   },
   {
@@ -605,7 +605,7 @@ const symbols = [
     symbols: "ℹ️ Information",
     "symbols-href": "https://emojipedia.org/information/",
     emoji: "ℹ️",
-    "emoji-name": "ℹ️ Information",
+    emojiName: "ℹ️ Information",
     description:
       "A lowercase letter i, enclosed in a rounded square or circle. Implemented in apps or websites to indicate that help or further information is available.",
   },
@@ -615,7 +615,7 @@ const symbols = [
     symbols: "🆓 Free Button",
     "symbols-href": "https://emojipedia.org/free-button/",
     emoji: "🆓",
-    "emoji-name": "🆓 Free Button",
+    emojiName: "🆓 Free Button",
     description: "The word free, shown enclosed in a square.",
   },
   {
@@ -624,7 +624,7 @@ const symbols = [
     symbols: "🆒 Cool Button",
     "symbols-href": "https://emojipedia.org/cool-button/",
     emoji: "🆒",
-    "emoji-name": "🆒 Cool Button",
+    emojiName: "🆒 Cool Button",
     description:
       "The word cool, shown enclosed in a square. This generally displays in a shade of blue, or blue-gray on most platforms. Used as a text decoration.",
   },
@@ -634,7 +634,7 @@ const symbols = [
     symbols: "🆑 CL Button",
     "symbols-href": "https://emojipedia.org/cl-button/",
     emoji: "🆑",
-    "emoji-name": "🆑 CL Button",
+    emojiName: "🆑 CL Button",
     description:
       "CL is what shows on the CLear button of some older mobile phones.",
   },
@@ -644,7 +644,7 @@ const symbols = [
     symbols: "🅱️ B Button (Blood Type)",
     "symbols-href": "https://emojipedia.org/b-button-blood-type/",
     emoji: "🅱️",
-    "emoji-name": "🅱️ B Button (Blood Type)",
+    emojiName: "🅱️ B Button (Blood Type)",
     description:
       "A symbol representing Blood Type B. Displayed as the letter B on a red background.",
   },
@@ -654,7 +654,7 @@ const symbols = [
     symbols: "🆎 AB Button (Blood Type)",
     "symbols-href": "https://emojipedia.org/ab-button-blood-type/",
     emoji: "🆎",
-    "emoji-name": "🆎 AB Button (Blood Type)",
+    emojiName: "🆎 AB Button (Blood Type)",
     description:
       "A symbol representing Blood Type AB. Displayed as the letters AB on a red background.",
   },
@@ -664,7 +664,7 @@ const symbols = [
     symbols: "🅰️ A Button (Blood Type)",
     "symbols-href": "https://emojipedia.org/a-button-blood-type/",
     emoji: "🅰️",
-    "emoji-name": "🅰️ A Button (Blood Type)",
+    emojiName: "🅰️ A Button (Blood Type)",
     description:
       "A symbol representing Blood Type A. Displayed as the letter A on a red background.",
   },
@@ -674,7 +674,7 @@ const symbols = [
     symbols: "🔤 Input Latin Letters",
     "symbols-href": "https://emojipedia.org/input-latin-letters/",
     emoji: "🔤",
-    "emoji-name": "🔤 Input Latin Letters",
+    emojiName: "🔤 Input Latin Letters",
     description:
       "A symbol showing the lowercase letters a, b, c and d. Intended to be used on a software keyboard, or other input screen to enable alphabetical input, as opposed to numeric or symbol input.",
   },
@@ -684,7 +684,7 @@ const symbols = [
     symbols: "🔣 Input Symbols",
     "symbols-href": "https://emojipedia.org/input-symbols/",
     emoji: "🔣",
-    "emoji-name": "🔣 Input Symbols",
+    emojiName: "🔣 Input Symbols",
     description:
       "A symbol showing the following glyphs: 〒 (Japanese postal mark), 𝅘𝅥𝅮 (music note), & (ampersand, or sometimes an @ symbol) and % (percentage sign).",
   },
@@ -694,7 +694,7 @@ const symbols = [
     symbols: "🔢 Input Numbers",
     "symbols-href": "https://emojipedia.org/input-numbers/",
     emoji: "🔢",
-    "emoji-name": "🔢 Input Numbers",
+    emojiName: "🔢 Input Numbers",
     description:
       "A symbol showing the numbers 1, 2, 3 and 4. Intended to be used on a software keyboard, or other input screen to enable symbol input, as opposed to alphabetical or symbol input.",
   },
@@ -704,7 +704,7 @@ const symbols = [
     symbols: "🔡 Input Latin Lowercase",
     "symbols-href": "https://emojipedia.org/input-latin-lowercase/",
     emoji: "🔡",
-    "emoji-name": "🔡 Input Latin Lowercase",
+    emojiName: "🔡 Input Latin Lowercase",
     description:
       "A symbol showing the lowercase letters a, b, c and d. Intended to be used on a software keyboard, or other input screen to toggle lowercase letter input.",
   },
@@ -714,7 +714,7 @@ const symbols = [
     symbols: "🔠 Input Latin Uppercase",
     "symbols-href": "https://emojipedia.org/input-latin-uppercase/",
     emoji: "🔠",
-    "emoji-name": "🔠 Input Latin Uppercase",
+    emojiName: "🔠 Input Latin Uppercase",
     description:
       "A symbol showing the capital letters A, B, C and D. Intended to be used on a software keyboard, or other input screen to toggle capital letter input.",
   },
@@ -724,7 +724,7 @@ const symbols = [
     symbols: "🔟 Keycap: 10",
     "symbols-href": "https://emojipedia.org/keycap-10/",
     emoji: "🔟",
-    "emoji-name": "🔟 Keycap: 10",
+    emojiName: "🔟 Keycap: 10",
     description:
       "The number 10 on a square with rounded corners, designed to look like a keycap.",
   },
@@ -734,7 +734,7 @@ const symbols = [
     symbols: "9️⃣ Keycap Digit Nine",
     "symbols-href": "https://emojipedia.org/keycap-digit-nine/",
     emoji: "9️⃣",
-    "emoji-name": "9️⃣ Keycap Digit Nine",
+    emojiName: "9️⃣ Keycap Digit Nine",
     description:
       "The Keycap Digit Nine emoji is a keycap sequence combining 9️ Digit Nine and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -744,7 +744,7 @@ const symbols = [
     symbols: "8️⃣ Keycap Digit Eight",
     "symbols-href": "https://emojipedia.org/keycap-digit-eight/",
     emoji: "8️⃣",
-    "emoji-name": "8️⃣ Keycap Digit Eight",
+    emojiName: "8️⃣ Keycap Digit Eight",
     description:
       "The Keycap Digit Eight emoji is a keycap sequence combining 8️ Digit Eight and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -754,7 +754,7 @@ const symbols = [
     symbols: "7️⃣ Keycap Digit Seven",
     "symbols-href": "https://emojipedia.org/keycap-digit-seven/",
     emoji: "7️⃣",
-    "emoji-name": "7️⃣ Keycap Digit Seven",
+    emojiName: "7️⃣ Keycap Digit Seven",
     description:
       "The Keycap Digit Seven emoji is a keycap sequence combining 7️ Digit Seven and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -764,7 +764,7 @@ const symbols = [
     symbols: "6️⃣ Keycap Digit Six",
     "symbols-href": "https://emojipedia.org/keycap-digit-six/",
     emoji: "6️⃣",
-    "emoji-name": "6️⃣ Keycap Digit Six",
+    emojiName: "6️⃣ Keycap Digit Six",
     description:
       "The Keycap Digit Six emoji is a keycap sequence combining 6️ Digit Six and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -774,7 +774,7 @@ const symbols = [
     symbols: "5️⃣ Keycap Digit Five",
     "symbols-href": "https://emojipedia.org/keycap-digit-five/",
     emoji: "5️⃣",
-    "emoji-name": "5️⃣ Keycap Digit Five",
+    emojiName: "5️⃣ Keycap Digit Five",
     description:
       "The Keycap Digit Five emoji is a keycap sequence combining 5️ Digit Five and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -784,7 +784,7 @@ const symbols = [
     symbols: "4️⃣ Keycap Digit Four",
     "symbols-href": "https://emojipedia.org/keycap-digit-four/",
     emoji: "4️⃣",
-    "emoji-name": "4️⃣ Keycap Digit Four",
+    emojiName: "4️⃣ Keycap Digit Four",
     description:
       "The Keycap Digit Four emoji is a keycap sequence combining 4️ Digit Four and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -794,7 +794,7 @@ const symbols = [
     symbols: "3️⃣ Keycap Digit Three",
     "symbols-href": "https://emojipedia.org/keycap-digit-three/",
     emoji: "3️⃣",
-    "emoji-name": "3️⃣ Keycap Digit Three",
+    emojiName: "3️⃣ Keycap Digit Three",
     description:
       "The Keycap Digit Three emoji is a keycap sequence combining 3️ Digit Three and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -804,7 +804,7 @@ const symbols = [
     symbols: "2️⃣ Keycap Digit Two",
     "symbols-href": "https://emojipedia.org/keycap-digit-two/",
     emoji: "2️⃣",
-    "emoji-name": "2️⃣ Keycap Digit Two",
+    emojiName: "2️⃣ Keycap Digit Two",
     description:
       "The Keycap Digit Two emoji is a keycap sequence combining 2️ Digit Two and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -814,7 +814,7 @@ const symbols = [
     symbols: "1️⃣ Keycap Digit One",
     "symbols-href": "https://emojipedia.org/keycap-digit-one/",
     emoji: "1️⃣",
-    "emoji-name": "1️⃣ Keycap Digit One",
+    emojiName: "1️⃣ Keycap Digit One",
     description:
       "The Keycap Digit One emoji is a keycap sequence combining 1️ Digit One and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -824,7 +824,7 @@ const symbols = [
     symbols: "0️⃣ Keycap Digit Zero",
     "symbols-href": "https://emojipedia.org/keycap-digit-zero/",
     emoji: "0️⃣",
-    "emoji-name": "0️⃣ Keycap Digit Zero",
+    emojiName: "0️⃣ Keycap Digit Zero",
     description:
       "The Keycap Digit Zero emoji is a keycap sequence combining 0️ Digit Zero and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -834,7 +834,7 @@ const symbols = [
     symbols: "*️⃣ Keycap Asterisk",
     "symbols-href": "https://emojipedia.org/keycap-asterisk/",
     emoji: "*️⃣",
-    "emoji-name": "*️⃣ Keycap Asterisk",
+    emojiName: "*️⃣ Keycap Asterisk",
     description:
       "The Keycap Asterisk emoji is a keycap sequence combining *️ Asterisk and ⃣ Combining Enclosing Keycap.\nThese display as a single emoji on supported platforms.",
   },
@@ -844,7 +844,7 @@ const symbols = [
     symbols: "#️⃣ Keycap Number Sign",
     "symbols-href": "https://emojipedia.org/keycap-number-sign/",
     emoji: "#️⃣",
-    "emoji-name": "#️⃣ Keycap Number Sign",
+    emojiName: "#️⃣ Keycap Number Sign",
     description:
       "A hash key, sometimes referred to as a pound key in the United States. Most commonly used online to make a hashtag (or hash flag) on social media sites.",
   },
@@ -854,7 +854,7 @@ const symbols = [
     symbols: "™️ Trade Mark",
     "symbols-href": "https://emojipedia.org/trade-mark/",
     emoji: "™️",
-    "emoji-name": "™️ Trade Mark",
+    emojiName: "™️ Trade Mark",
     description:
       "A trademark symbol, the letters TM displayed after a word that is trademarked.",
   },
@@ -864,7 +864,7 @@ const symbols = [
     symbols: "®️ Registered",
     "symbols-href": "https://emojipedia.org/registered/",
     emoji: "®️",
-    "emoji-name": "®️ Registered",
+    emojiName: "®️ Registered",
     description:
       "Registered was approved as part of Unicode 1.1 in 1993 under the name “Registered Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -874,7 +874,7 @@ const symbols = [
     symbols: "©️ Copyright",
     "symbols-href": "https://emojipedia.org/copyright/",
     emoji: "©️",
-    "emoji-name": "©️ Copyright",
+    emojiName: "©️ Copyright",
     description:
       "Copyright was approved as part of Unicode 1.1 in 1993 under the name “Copyright Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -884,7 +884,7 @@ const symbols = [
     symbols: "❇️ Sparkle",
     "symbols-href": "https://emojipedia.org/sparkle/",
     emoji: "❇️",
-    "emoji-name": "❇️ Sparkle",
+    emojiName: "❇️ Sparkle",
     description:
       "Used a decorative bullet-point, the sparkle has both a ❇︎ text and ❇️ emoji presentation available on most platforms.",
   },
@@ -894,7 +894,7 @@ const symbols = [
     symbols: "✴️ Eight-Pointed Star",
     "symbols-href": "https://emojipedia.org/eight-pointed-star/",
     emoji: "✴️",
-    "emoji-name": "✴️ Eight-Pointed Star",
+    emojiName: "✴️ Eight-Pointed Star",
     description:
       "A star with eight points, that is commonly shown in orange, and for some reason, with only four points.",
   },
@@ -904,7 +904,7 @@ const symbols = [
     symbols: "✳️ Eight-Spoked Asterisk",
     "symbols-href": "https://emojipedia.org/eight-spoked-asterisk/",
     emoji: "✳️",
-    "emoji-name": "✳️ Eight-Spoked Asterisk",
+    emojiName: "✳️ Eight-Spoked Asterisk",
     description:
       "Used in a similar manner to a regular * asterisk character but tends to be shown in a similar vertical alignment to a • bullet point. The eight spoked asterisk has both a ✳︎ text and ✳️ emoji presentation available on most platforms.",
   },
@@ -914,7 +914,7 @@ const symbols = [
     symbols: "〽️ Part Alternation Mark",
     "symbols-href": "https://emojipedia.org/part-alternation-mark/",
     emoji: "〽️",
-    "emoji-name": "〽️ Part Alternation Mark",
+    emojiName: "〽️ Part Alternation Mark",
     description:
       "Used in traditional Japanese music such as Noh or Renga, to indicate the start of a song. More specifically, the part alternation mark is displayed where the singer’s part begins.",
   },
@@ -924,7 +924,7 @@ const symbols = [
     symbols: "➿ Double Curly Loop",
     "symbols-href": "https://emojipedia.org/double-curly-loop/",
     emoji: "➿",
-    "emoji-name": "➿ Double Curly Loop",
+    emojiName: "➿ Double Curly Loop",
     description:
       "Two curly loops, which represent a reel-to-reel tape recorder. Used as a symbol for voicemail on many phones.",
   },
@@ -934,7 +934,7 @@ const symbols = [
     symbols: "➰ Curly Loop",
     "symbols-href": "https://emojipedia.org/curly-loop/",
     emoji: "➰",
-    "emoji-name": "➰ Curly Loop",
+    emojiName: "➰ Curly Loop",
     description:
       "A curled loop, which is shown in black on most platforms. Previously displayed as a blue ribbon on Samsung devices.",
   },
@@ -944,7 +944,7 @@ const symbols = [
     symbols: "❎ Cross Mark Button",
     "symbols-href": "https://emojipedia.org/cross-mark-button/",
     emoji: "❎",
-    "emoji-name": "❎ Cross Mark Button",
+    emojiName: "❎ Cross Mark Button",
     description:
       "Cross Mark Button was approved as part of Unicode 6.0 in 2010 under the name “Negative Squared Cross Mark” and added to Emoji 1.0 in 2015.",
   },
@@ -954,7 +954,7 @@ const symbols = [
     symbols: "❌ Cross Mark",
     "symbols-href": "https://emojipedia.org/cross-mark/",
     emoji: "❌",
-    "emoji-name": "❌ Cross Mark",
+    emojiName: "❌ Cross Mark",
     description:
       "A large red cross mark, displayed in the shape of a letter X and similar to a multiplication sign.",
   },
@@ -964,7 +964,7 @@ const symbols = [
     symbols: "✔️ Check Mark",
     "symbols-href": "https://emojipedia.org/check-mark/",
     emoji: "✔️",
-    "emoji-name": "✔️ Check Mark",
+    emojiName: "✔️ Check Mark",
     description:
       "A thick check mark / tick displayed on some platforms in a handwritten style. Generally displayed in black. Commonly used in lists to signify completed tasks or verification of a statement of fact.",
   },
@@ -974,7 +974,7 @@ const symbols = [
     symbols: "☑️ Check Box with Check",
     "symbols-href": "https://emojipedia.org/check-box-with-check/",
     emoji: "☑️",
-    "emoji-name": "☑️ Check Box with Check",
+    emojiName: "☑️ Check Box with Check",
     description:
       "A checkbox showing a check mark inside the box. Not to be confused with the similarly named Ballot Box With Ballot emoji.",
   },
@@ -984,7 +984,7 @@ const symbols = [
     symbols: "✅ Check Mark Button",
     "symbols-href": "https://emojipedia.org/check-mark-button/",
     emoji: "✅",
-    "emoji-name": "✅ Check Mark Button",
+    emojiName: "✅ Check Mark Button",
     description:
       "A check mark that displays with a white outlined appearance. Shows on most platforms with a bright green rounded rectangle or circle surrounding it.",
   },
@@ -994,7 +994,7 @@ const symbols = [
     symbols: "⭕ Hollow Red Circle",
     "symbols-href": "https://emojipedia.org/hollow-red-circle/",
     emoji: "⭕",
-    "emoji-name": "⭕ Hollow Red Circle",
+    emojiName: "⭕ Hollow Red Circle",
     description:
       "Used as an alternative to a check (tick) in Japan for a something that is correct. The opposite of an X (cross mark) for something wrong.",
   },
@@ -1004,7 +1004,7 @@ const symbols = [
     symbols: "🔰 Japanese Symbol for Beginner",
     "symbols-href": "https://emojipedia.org/japanese-symbol-for-beginner/",
     emoji: "🔰",
-    "emoji-name": "🔰 Japanese Symbol for Beginner",
+    emojiName: "🔰 Japanese Symbol for Beginner",
     description:
       "A yellow and green shield symbol, called a Shoshinsha Mark. Must be displayed by drivers in Japan for one year after they receive their drivers licence.",
   },
@@ -1014,7 +1014,7 @@ const symbols = [
     symbols: "📛 Name Badge",
     "symbols-href": "https://emojipedia.org/name-badge/",
     emoji: "📛",
-    "emoji-name": "📛 Name Badge",
+    emojiName: "📛 Name Badge",
     description:
       "A name badge, used to identify oneself in a location that others may not know your name, such as a school trip, or a work conference.",
   },
@@ -1024,7 +1024,7 @@ const symbols = [
     symbols: "🔱 Trident Emblem",
     "symbols-href": "https://emojipedia.org/trident-emblem/",
     emoji: "🔱",
-    "emoji-name": "🔱 Trident Emblem",
+    emojiName: "🔱 Trident Emblem",
     description:
       "A trident is a three-pronged spear, that appears similar to a pitchfork. Often held by Greek or Roman Gods in statues.",
   },
@@ -1034,7 +1034,7 @@ const symbols = [
     symbols: "⚜️ Fleur-de-lis",
     "symbols-href": "https://emojipedia.org/fleur-de-lis/",
     emoji: "⚜️",
-    "emoji-name": "⚜️ Fleur-de-lis",
+    emojiName: "⚜️ Fleur-de-lis",
     description:
       "A decorative symbol that appears like a golden flower, but found in all manner of logos, symbols, and patterns. This symbol forms part of the World Scout Emblem, amongst other uses.",
   },
@@ -1044,7 +1044,7 @@ const symbols = [
     symbols: "♻️ Recycling Symbol",
     "symbols-href": "https://emojipedia.org/recycling-symbol/",
     emoji: "♻️",
-    "emoji-name": "♻️ Recycling Symbol",
+    emojiName: "♻️ Recycling Symbol",
     description:
       "The universal recycling symbol, featuring three arrows pointing clockwise in a triangular formation.",
   },
@@ -1054,7 +1054,7 @@ const symbols = [
     symbols: "⚕️ Medical Symbol",
     "symbols-href": "https://emojipedia.org/medical-symbol/",
     emoji: "⚕️",
-    "emoji-name": "⚕️ Medical Symbol",
+    emojiName: "⚕️ Medical Symbol",
     description:
       "A symbol displaying of a rod with a snake entwined around the outside in a downward-spiral shape.",
   },
@@ -1064,7 +1064,7 @@ const symbols = [
     symbols: "💲 Heavy Dollar Sign",
     "symbols-href": "https://emojipedia.org/heavy-dollar-sign/",
     emoji: "💲",
-    "emoji-name": "💲 Heavy Dollar Sign",
+    emojiName: "💲 Heavy Dollar Sign",
     description:
       "Heavy Dollar Sign was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015.",
   },
@@ -1074,7 +1074,7 @@ const symbols = [
     symbols: "💱 Currency Exchange",
     "symbols-href": "https://emojipedia.org/currency-exchange/",
     emoji: "💱",
-    "emoji-name": "💱 Currency Exchange",
+    emojiName: "💱 Currency Exchange",
     description:
       "A symbol for exchanging of two currencies. Most commonly displayed as a dollar symbol, with arrows to and from a yen symbol.",
   },
@@ -1084,7 +1084,7 @@ const symbols = [
     symbols: "〰️ Wavy Dash",
     "symbols-href": "https://emojipedia.org/wavy-dash/",
     emoji: "〰️",
-    "emoji-name": "〰️ Wavy Dash",
+    emojiName: "〰️ Wavy Dash",
     description:
       "Just like a regular dash (hyphen), sometimes used in Asian character sets in the same way a – or — is used in latin character sets.",
   },
@@ -1094,7 +1094,7 @@ const symbols = [
     symbols: "❗ Red Exclamation Mark",
     "symbols-href": "https://emojipedia.org/exclamation-mark/",
     emoji: "❗",
-    "emoji-name": "❗ Red Exclamation Mark",
+    emojiName: "❗ Red Exclamation Mark",
     description:
       "Red Exclamation Mark was approved as part of Unicode 5.2 in 2009 under the name “Heavy Exclamation Mark Symbol” and added to Emoji 1.0 in 2015.",
   },
@@ -1104,7 +1104,7 @@ const symbols = [
     symbols: "❕ White Exclamation Mark",
     "symbols-href": "https://emojipedia.org/white-exclamation-mark/",
     emoji: "❕",
-    "emoji-name": "❕ White Exclamation Mark",
+    emojiName: "❕ White Exclamation Mark",
     description:
       "White Exclamation Mark was approved as part of Unicode 6.0 in 2010 under the name “White Exclamation Mark Ornament” and added to Emoji 1.0 in 2015.",
   },
@@ -1114,7 +1114,7 @@ const symbols = [
     symbols: "❔ White Question Mark",
     "symbols-href": "https://emojipedia.org/white-question-mark/",
     emoji: "❔",
-    "emoji-name": "❔ White Question Mark",
+    emojiName: "❔ White Question Mark",
     description:
       "White Question Mark was approved as part of Unicode 6.0 in 2010 under the name “White Question Mark Ornament” and added to Emoji 1.0 in 2015.",
   },
@@ -1124,7 +1124,7 @@ const symbols = [
     symbols: "❓ Red Question Mark",
     "symbols-href": "https://emojipedia.org/question-mark/",
     emoji: "❓",
-    "emoji-name": "❓ Red Question Mark",
+    emojiName: "❓ Red Question Mark",
     description:
       "Red Question Mark was approved as part of Unicode 6.0 in 2010 under the name “Black Question Mark Ornament” and added to Emoji 1.0 in 2015.",
   },
@@ -1134,7 +1134,7 @@ const symbols = [
     symbols: "⁉️ Exclamation Question Mark",
     "symbols-href": "https://emojipedia.org/exclamation-question-mark/",
     emoji: "⁉️",
-    "emoji-name": "⁉️ Exclamation Question Mark",
+    emojiName: "⁉️ Exclamation Question Mark",
     description:
       "Exclamation Question Mark was approved as part of Unicode 3.0 in 1999 and added to Emoji 1.0 in 2015.",
   },
@@ -1144,7 +1144,7 @@ const symbols = [
     symbols: "‼️ Double Exclamation Mark",
     "symbols-href": "https://emojipedia.org/double-exclamation-mark/",
     emoji: "‼️",
-    "emoji-name": "‼️ Double Exclamation Mark",
+    emojiName: "‼️ Double Exclamation Mark",
     description:
       "Double Exclamation Mark was approved as part of Unicode 1.1 in 1993 and added to Emoji 1.0 in 2015.",
   },
@@ -1154,7 +1154,7 @@ const symbols = [
     symbols: "♾️ Infinity",
     "symbols-href": "https://emojipedia.org/infinity/",
     emoji: "♾️",
-    "emoji-name": "♾️ Infinity",
+    emojiName: "♾️ Infinity",
     description: "The symbol for infinity enclosed within a circle or square.",
   },
   {
@@ -1163,7 +1163,7 @@ const symbols = [
     symbols: "🟰 Heavy Equals Sign",
     "symbols-href": "https://emojipedia.org/heavy-equals-sign/",
     emoji: "🟰",
-    "emoji-name": "🟰 Heavy Equals Sign",
+    emojiName: "🟰 Heavy Equals Sign",
     description:
       "An equals sign in the style of the already existing set of mathematical symbols ✖️ Multiply, ➕ Plus, ➖ Minus, and ➗ Divide.",
   },
@@ -1173,7 +1173,7 @@ const symbols = [
     symbols: "➗ Divide",
     "symbols-href": "https://emojipedia.org/divide/",
     emoji: "➗",
-    "emoji-name": "➗ Divide",
+    emojiName: "➗ Divide",
     description:
       "Divide was approved as part of Unicode 6.0 in 2010 under the name “Heavy Division Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -1183,7 +1183,7 @@ const symbols = [
     symbols: "➖ Minus",
     "symbols-href": "https://emojipedia.org/minus/",
     emoji: "➖",
-    "emoji-name": "➖ Minus",
+    emojiName: "➖ Minus",
     description:
       "Minus was approved as part of Unicode 6.0 in 2010 under the name “Heavy Minus Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -1193,7 +1193,7 @@ const symbols = [
     symbols: "➕ Plus",
     "symbols-href": "https://emojipedia.org/plus/",
     emoji: "➕",
-    "emoji-name": "➕ Plus",
+    emojiName: "➕ Plus",
     description:
       "Plus was approved as part of Unicode 6.0 in 2010 under the name “Heavy Plus Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -1203,7 +1203,7 @@ const symbols = [
     symbols: "✖️ Multiply",
     "symbols-href": "https://emojipedia.org/multiply/",
     emoji: "✖️",
-    "emoji-name": "✖️ Multiply",
+    emojiName: "✖️ Multiply",
     description:
       "Multiply was approved as part of Unicode 1.1 in 1993 under the name “Heavy Multiplication X” and added to Emoji 1.0 in 2015.",
   },
@@ -1213,7 +1213,7 @@ const symbols = [
     symbols: "♂️ Male Sign",
     "symbols-href": "https://emojipedia.org/male-sign/",
     emoji: "♂️",
-    "emoji-name": "♂️ Male Sign",
+    emojiName: "♂️ Male Sign",
     description:
       "A circle shown with a diagonal arrow pointing out the top-right, used as a representation for men.",
   },
@@ -1223,7 +1223,7 @@ const symbols = [
     symbols: "♀️ Female Sign",
     "symbols-href": "https://emojipedia.org/female-sign/",
     emoji: "♀️",
-    "emoji-name": "♀️ Female Sign",
+    emojiName: "♀️ Female Sign",
     description:
       "A circle shown with a crossed vertical line beneath it, used as a representation for women. Often used on International Women's Day.",
   },
@@ -1233,7 +1233,7 @@ const symbols = [
     symbols: "📴 Mobile Phone Off",
     "symbols-href": "https://emojipedia.org/mobile-phone-off/",
     emoji: "📴",
-    "emoji-name": "📴 Mobile Phone Off",
+    emojiName: "📴 Mobile Phone Off",
     description:
       "A sign indicating that mobile phones should be turned off. Used in situations such as a cinema or live performance.",
   },
@@ -1243,7 +1243,7 @@ const symbols = [
     symbols: "📳 Vibration Mode",
     "symbols-href": "https://emojipedia.org/vibration-mode/",
     emoji: "📳",
-    "emoji-name": "📳 Vibration Mode",
+    emojiName: "📳 Vibration Mode",
     description:
       "An icon representing vibration mode on a mobile phone, indicating that a phone should be switched to silent and/or vibrate mode.",
   },
@@ -1253,7 +1253,7 @@ const symbols = [
     symbols: "📶 Antenna Bars",
     "symbols-href": "https://emojipedia.org/antenna-bars/",
     emoji: "📶",
-    "emoji-name": "📶 Antenna Bars",
+    emojiName: "📶 Antenna Bars",
     description:
       "Bars increasing in height, showing the strength of the mobile (cellular) phone signal. More bars signifies better reception.",
   },
@@ -1263,7 +1263,7 @@ const symbols = [
     symbols: "🔆 Bright Button",
     "symbols-href": "https://emojipedia.org/bright-button/",
     emoji: "🔆",
-    "emoji-name": "🔆 Bright Button",
+    emojiName: "🔆 Bright Button",
     description:
       "An icon of a outlined sun, used when increasing the brightness of a screen. Appears larger than the Low Brightness Symbol.",
   },
@@ -1273,7 +1273,7 @@ const symbols = [
     symbols: "🔅 Dim Button",
     "symbols-href": "https://emojipedia.org/dim-button/",
     emoji: "🔅",
-    "emoji-name": "🔅 Dim Button",
+    emojiName: "🔅 Dim Button",
     description:
       "An icon of a outlined sun, used when decreasing the brightness of a screen. Appears smaller than the High Brightness Symbol.",
   },
@@ -1283,7 +1283,7 @@ const symbols = [
     symbols: "🎦 Cinema",
     "symbols-href": "https://emojipedia.org/cinema/",
     emoji: "🎦",
-    "emoji-name": "🎦 Cinema",
+    emojiName: "🎦 Cinema",
     description:
       "An emoji representing the cinema: a large screen showing the latest movies, available to the public. Displayed by most platforms as a film projector symbol, and previously by Google and Microsoft as a cinema screen with curtains.",
   },
@@ -1293,7 +1293,7 @@ const symbols = [
     symbols: "⏏️ Eject Button",
     "symbols-href": "https://emojipedia.org/eject-button/",
     emoji: "⏏️",
-    "emoji-name": "⏏️ Eject Button",
+    emojiName: "⏏️ Eject Button",
     description:
       "An eject symbol, displayed as an upward-pointing triangle above a horiztonal bar. May be used as a physical button or an icon in a user interface. Represents the action of ejecting physical media such as a floppy disk, videocasette or DVD on a computer or media player.",
   },
@@ -1303,7 +1303,7 @@ const symbols = [
     symbols: "⏺️ Record Button",
     "symbols-href": "https://emojipedia.org/record-button/",
     emoji: "⏺️",
-    "emoji-name": "⏺️ Record Button",
+    emojiName: "⏺️ Record Button",
     description: "A record icon, displayed as a circle.",
   },
   {
@@ -1312,7 +1312,7 @@ const symbols = [
     symbols: "⏹️ Stop Button",
     "symbols-href": "https://emojipedia.org/stop-button/",
     emoji: "⏹️",
-    "emoji-name": "⏹️ Stop Button",
+    emojiName: "⏹️ Stop Button",
     description: "A stop icon, displayed as a square.",
   },
   {
@@ -1321,7 +1321,7 @@ const symbols = [
     symbols: "⏸️ Pause Button",
     "symbols-href": "https://emojipedia.org/pause-button/",
     emoji: "⏸️",
-    "emoji-name": "⏸️ Pause Button",
+    emojiName: "⏸️ Pause Button",
     description: "A pause icon, displayed as two vertical bars.",
   },
   {
@@ -1330,7 +1330,7 @@ const symbols = [
     symbols: "⏬ Fast Down Button",
     "symbols-href": "https://emojipedia.org/fast-down-button/",
     emoji: "⏬",
-    "emoji-name": "⏬ Fast Down Button",
+    emojiName: "⏬ Fast Down Button",
     description:
       "Two triangles pointing down. Similar to rewind icon, rotated 90° counter-clockwise.",
   },
@@ -1340,7 +1340,7 @@ const symbols = [
     symbols: "🔽 Downwards Button",
     "symbols-href": "https://emojipedia.org/downwards-button/",
     emoji: "🔽",
-    "emoji-name": "🔽 Downwards Button",
+    emojiName: "🔽 Downwards Button",
     description:
       "A triangle-shaped arrow, pointing down. Styled similarly to the left and right pointing triangles and colored as either gray or blue, but shown in orange on Android.",
   },
@@ -1350,7 +1350,7 @@ const symbols = [
     symbols: "⏫ Fast Up Button",
     "symbols-href": "https://emojipedia.org/fast-up-button/",
     emoji: "⏫",
-    "emoji-name": "⏫ Fast Up Button",
+    emojiName: "⏫ Fast Up Button",
     description:
       "Two triangles pointing up. Similar to rewind icon, rotated 90° clockwise.",
   },
@@ -1360,7 +1360,7 @@ const symbols = [
     symbols: "🔼 Upwards Button",
     "symbols-href": "https://emojipedia.org/upwards-button/",
     emoji: "🔼",
-    "emoji-name": "🔼 Upwards Button",
+    emojiName: "🔼 Upwards Button",
     description:
       "A triangle-shaped arrow, pointing up. Styled similarly to the left and right triangles and colored as either gray or blue, but shown in orange on Android.",
   },
@@ -1370,7 +1370,7 @@ const symbols = [
     symbols: "⏮️ Last Track Button",
     "symbols-href": "https://emojipedia.org/last-track-button/",
     emoji: "⏮️",
-    "emoji-name": "⏮️ Last Track Button",
+    emojiName: "⏮️ Last Track Button",
     description:
       "A symbol used in media players to indicate skipping to the first or previous track (or scene). Shown as a vertical bar followed by two triangles pointing left.",
   },
@@ -1380,7 +1380,7 @@ const symbols = [
     symbols: "⏪ Fast Reverse Button",
     "symbols-href": "https://emojipedia.org/fast-reverse-button/",
     emoji: "⏪",
-    "emoji-name": "⏪ Fast Reverse Button",
+    emojiName: "⏪ Fast Reverse Button",
     description:
       "Two triangles pointing to the left. Most commonly used as a symbol for rewinding media such as video tapes, CDs, or digital audio and video.",
   },
@@ -1390,7 +1390,7 @@ const symbols = [
     symbols: "◀️ Reverse Button",
     "symbols-href": "https://emojipedia.org/reverse-button/",
     emoji: "◀️",
-    "emoji-name": "◀️ Reverse Button",
+    emojiName: "◀️ Reverse Button",
     description: "A triangle-shaped arrow, pointing left.",
   },
   {
@@ -1399,7 +1399,7 @@ const symbols = [
     symbols: "⏯️ Play or Pause Button",
     "symbols-href": "https://emojipedia.org/play-or-pause-button/",
     emoji: "⏯️",
-    "emoji-name": "⏯️ Play or Pause Button",
+    emojiName: "⏯️ Play or Pause Button",
     description:
       "A play-pause icon, showing a right-pointing triangle (play) next to a double vertical bar (pause).",
   },
@@ -1409,7 +1409,7 @@ const symbols = [
     symbols: "⏭️ Next Track Button",
     "symbols-href": "https://emojipedia.org/next-track-button/",
     emoji: "⏭️",
-    "emoji-name": "⏭️ Next Track Button",
+    emojiName: "⏭️ Next Track Button",
     description:
       "A symbol used in media players to indicate skipping to the next track (or scene). Shown as two triangles pointing right followed by a vertical bar.",
   },
@@ -1419,7 +1419,7 @@ const symbols = [
     symbols: "⏩ Fast-Forward Button",
     "symbols-href": "https://emojipedia.org/fast-forward-button/",
     emoji: "⏩",
-    "emoji-name": "⏩ Fast-Forward Button",
+    emojiName: "⏩ Fast-Forward Button",
     description:
       "Two triangles pointing to the right. Most commonly used as a symbol for fast forwarding media such as video tapes, CDs, or digital audio and video.",
   },
@@ -1429,7 +1429,7 @@ const symbols = [
     symbols: "▶️ Play Button",
     "symbols-href": "https://emojipedia.org/play-button/",
     emoji: "▶️",
-    "emoji-name": "▶️ Play Button",
+    emojiName: "▶️ Play Button",
     description:
       "A triangle-shaped arrow, pointing right. Commonly used as a symbol for play.",
   },
@@ -1439,7 +1439,7 @@ const symbols = [
     symbols: "🔂 Repeat Single Button",
     "symbols-href": "https://emojipedia.org/repeat-single-button/",
     emoji: "🔂",
-    "emoji-name": "🔂 Repeat Single Button",
+    emojiName: "🔂 Repeat Single Button",
     description:
       "Arrows pointing in a clockwise direction, with a number 1 badge in the lower corner.  Used in music player applications to loop a track or album once.",
   },
@@ -1449,7 +1449,7 @@ const symbols = [
     symbols: "🔁 Repeat Button",
     "symbols-href": "https://emojipedia.org/repeat-button/",
     emoji: "🔁",
-    "emoji-name": "🔁 Repeat Button",
+    emojiName: "🔁 Repeat Button",
     description:
       "Circular arrows pointing in a clockwise direction. Used in music player applications to loop a track or album continuously. Commonly used to repesent a retweet on Twitter.",
   },
@@ -1459,7 +1459,7 @@ const symbols = [
     symbols: "🔀 Shuffle Tracks Button",
     "symbols-href": "https://emojipedia.org/shuffle-tracks-button/",
     emoji: "🔀",
-    "emoji-name": "🔀 Shuffle Tracks Button",
+    emojiName: "🔀 Shuffle Tracks Button",
     description:
       "Two arrows pointing right while crossing over one another. Used to indicate putting music on shuffle: randomizing the order of tracks in the upcoming playlist. May also be used to indicate two items switching places.",
   },
@@ -1469,7 +1469,7 @@ const symbols = [
     symbols: "⛎ Ophiuchus",
     "symbols-href": "https://emojipedia.org/ophiuchus/",
     emoji: "⛎",
-    "emoji-name": "⛎ Ophiuchus",
+    emojiName: "⛎ Ophiuchus",
     description:
       "Ophiuchus is used by some as a 13th sign in the Zodiac. The symbol for ophiuchus appears a U shape with a wavy line through it.",
   },
@@ -1479,7 +1479,7 @@ const symbols = [
     symbols: "♓ Pisces",
     "symbols-href": "https://emojipedia.org/pisces/",
     emoji: "♓",
-    "emoji-name": "♓ Pisces",
+    emojiName: "♓ Pisces",
     description:
       "The Pisces astrological sign in the Zodiac. This Zodiac Symbol represents a Fish.",
   },
@@ -1489,7 +1489,7 @@ const symbols = [
     symbols: "♒ Aquarius",
     "symbols-href": "https://emojipedia.org/aquarius/",
     emoji: "♒",
-    "emoji-name": "♒ Aquarius",
+    emojiName: "♒ Aquarius",
     description:
       "The Aquarius astrological sign in the Zodiac. This Zodiac Symbol represents a Water-bearer.",
   },
@@ -1499,7 +1499,7 @@ const symbols = [
     symbols: "♑ Capricorn",
     "symbols-href": "https://emojipedia.org/capricorn/",
     emoji: "♑",
-    "emoji-name": "♑ Capricorn",
+    emojiName: "♑ Capricorn",
     description:
       "The Capricorn astrological sign in the Zodiac. This Zodiac Symbol represents a Goat.",
   },
@@ -1509,7 +1509,7 @@ const symbols = [
     symbols: "♐ Sagittarius",
     "symbols-href": "https://emojipedia.org/sagittarius/",
     emoji: "♐",
-    "emoji-name": "♐ Sagittarius",
+    emojiName: "♐ Sagittarius",
     description:
       "The Sagittarius astrological sign in the Zodiac. This Zodiac Symbol represents an Archer.",
   },
@@ -1519,7 +1519,7 @@ const symbols = [
     symbols: "♏ Scorpio",
     "symbols-href": "https://emojipedia.org/scorpio/",
     emoji: "♏",
-    "emoji-name": "♏ Scorpio",
+    emojiName: "♏ Scorpio",
     description:
       "The Scorpius astrological sign in the Zodiac. This Zodiac Symbol represents a Scorpion.",
   },
@@ -1529,7 +1529,7 @@ const symbols = [
     symbols: "♎ Libra",
     "symbols-href": "https://emojipedia.org/libra/",
     emoji: "♎",
-    "emoji-name": "♎ Libra",
+    emojiName: "♎ Libra",
     description:
       "The Libra astrological sign in the Zodiac. This Zodiac Symbol represents weighing scales.",
   },
@@ -1539,7 +1539,7 @@ const symbols = [
     symbols: "♍ Virgo",
     "symbols-href": "https://emojipedia.org/virgo/",
     emoji: "♍",
-    "emoji-name": "♍ Virgo",
+    emojiName: "♍ Virgo",
     description:
       "The Virgo astrological sign in the Zodiac. This Zodiac Symbol represents a Maiden.",
   },
@@ -1549,7 +1549,7 @@ const symbols = [
     symbols: "♌ Leo",
     "symbols-href": "https://emojipedia.org/leo/",
     emoji: "♌",
-    "emoji-name": "♌ Leo",
+    emojiName: "♌ Leo",
     description:
       "The Leo astrological sign in the Zodiac. This Zodiac Symbol represents a Lion.",
   },
@@ -1559,7 +1559,7 @@ const symbols = [
     symbols: "♋ Cancer",
     "symbols-href": "https://emojipedia.org/cancer/",
     emoji: "♋",
-    "emoji-name": "♋ Cancer",
+    emojiName: "♋ Cancer",
     description:
       "The Cancer astrological sign in the Zodiac. This Zodiac Symbol represents a Crab.",
   },
@@ -1569,7 +1569,7 @@ const symbols = [
     symbols: "♊ Gemini",
     "symbols-href": "https://emojipedia.org/gemini/",
     emoji: "♊",
-    "emoji-name": "♊ Gemini",
+    emojiName: "♊ Gemini",
     description:
       "The Gemini astrological sign in the Zodiac. This Zodiac Symbol represents Twins.",
   },
@@ -1579,7 +1579,7 @@ const symbols = [
     symbols: "♉ Taurus",
     "symbols-href": "https://emojipedia.org/taurus/",
     emoji: "♉",
-    "emoji-name": "♉ Taurus",
+    emojiName: "♉ Taurus",
     description:
       "The Taurus astrological sign in the Zodiac. This Zodiac Symbol represents a Bull.",
   },
@@ -1589,7 +1589,7 @@ const symbols = [
     symbols: "♈ Aries",
     "symbols-href": "https://emojipedia.org/aries/",
     emoji: "♈",
-    "emoji-name": "♈ Aries",
+    emojiName: "♈ Aries",
     description:
       "The Aries astrological sign in the Zodiac. This Zodiac Symbol represents a Ram.",
   },
@@ -1599,7 +1599,7 @@ const symbols = [
     symbols: "🔯 Dotted Six-Pointed Star",
     "symbols-href": "https://emojipedia.org/dotted-six-pointed-star/",
     emoji: "🔯",
-    "emoji-name": "🔯 Dotted Six-Pointed Star",
+    emojiName: "🔯 Dotted Six-Pointed Star",
     description:
       "A star with six points, and a dot in the center. Similar to the Star of David emoji.",
   },
@@ -1609,7 +1609,7 @@ const symbols = [
     symbols: "🕎 Menorah",
     "symbols-href": "https://emojipedia.org/menorah/",
     emoji: "🕎",
-    "emoji-name": "🕎 Menorah",
+    emojiName: "🕎 Menorah",
     description:
       "A menorah showing nine lit candles, used on the Jewish holiday of Hanukkah.",
   },
@@ -1619,7 +1619,7 @@ const symbols = [
     symbols: "☮️ Peace Symbol",
     "symbols-href": "https://emojipedia.org/peace-symbol/",
     emoji: "☮️",
-    "emoji-name": "☮️ Peace Symbol",
+    emojiName: "☮️ Peace Symbol",
     description:
       "A circular symbol, commonly used as a representation of peace. Alternatives include the Victory Hand, or the Dove of Peace.",
   },
@@ -1629,7 +1629,7 @@ const symbols = [
     symbols: "☪️ Star and Crescent",
     "symbols-href": "https://emojipedia.org/star-and-crescent/",
     emoji: "☪️",
-    "emoji-name": "☪️ Star and Crescent",
+    emojiName: "☪️ Star and Crescent",
     description:
       "The crescent moon and star is a symbol often associated with the religion of Islam. This symbol can be found on the flags of many countries, such as Algeria, Azerbaijan, Malaysia, Pakistan and Turkey.",
   },
@@ -1639,7 +1639,7 @@ const symbols = [
     symbols: "☦️ Orthodox Cross",
     "symbols-href": "https://emojipedia.org/orthodox-cross/",
     emoji: "☦️",
-    "emoji-name": "☦️ Orthodox Cross",
+    emojiName: "☦️ Orthodox Cross",
     description:
       "Orthodox Cross was approved as part of Unicode 1.1 in 1993 and added to Emoji 1.0 in 2015.",
   },
@@ -1649,7 +1649,7 @@ const symbols = [
     symbols: "✝️ Latin Cross",
     "symbols-href": "https://emojipedia.org/latin-cross/",
     emoji: "✝️",
-    "emoji-name": "✝️ Latin Cross",
+    emojiName: "✝️ Latin Cross",
     description:
       "A latin cross, otherwise known as a Christian cross. This cross symbol is often used as a symbol of Christianity. Similar in appearance to the Orthodox cross.",
   },
@@ -1659,7 +1659,7 @@ const symbols = [
     symbols: "☯️ Yin Yang",
     "symbols-href": "https://emojipedia.org/yin-yang/",
     emoji: "☯️",
-    "emoji-name": "☯️ Yin Yang",
+    emojiName: "☯️ Yin Yang",
     description:
       "Yin Yang was approved as part of Unicode 1.1 in 1993 and added to Emoji 1.0 in 2015.",
   },
@@ -1669,7 +1669,7 @@ const symbols = [
     symbols: "☸️ Wheel of Dharma",
     "symbols-href": "https://emojipedia.org/wheel-of-dharma/",
     emoji: "☸️",
-    "emoji-name": "☸️ Wheel of Dharma",
+    emojiName: "☸️ Wheel of Dharma",
     description:
       "A symbol often used in relation to the Indian religions of Hinduism, Buddhism, Sikhism and Jainism.",
   },
@@ -1679,7 +1679,7 @@ const symbols = [
     symbols: "✡️ Star of David",
     "symbols-href": "https://emojipedia.org/star-of-david/",
     emoji: "✡️",
-    "emoji-name": "✡️ Star of David",
+    emojiName: "✡️ Star of David",
     description:
       "A symbol often used in relation to the religion of Judaism. Not to be confused with the Six Pointed Star With Middle Dot emoji.",
   },
@@ -1689,7 +1689,7 @@ const symbols = [
     symbols: "🕉️ Om",
     "symbols-href": "https://emojipedia.org/om/",
     emoji: "🕉️",
-    "emoji-name": "🕉️ Om",
+    emojiName: "🕉️ Om",
     description:
       "A symbol often used in relation to the religions of Hinduism, Buddhism, Sikhism and Jainism.",
   },
@@ -1699,7 +1699,7 @@ const symbols = [
     symbols: "⚛️ Atom Symbol",
     "symbols-href": "https://emojipedia.org/atom-symbol/",
     emoji: "⚛️",
-    "emoji-name": "⚛️ Atom Symbol",
+    emojiName: "⚛️ Atom Symbol",
     description:
       "Atom Symbol was approved as part of Unicode 4.1 in 2005 and added to Emoji 1.0 in 2015.",
   },
@@ -1709,7 +1709,7 @@ const symbols = [
     symbols: "🛐 Place of Worship",
     "symbols-href": "https://emojipedia.org/place-of-worship/",
     emoji: "🛐",
-    "emoji-name": "🛐 Place of Worship",
+    emojiName: "🛐 Place of Worship",
     description:
       "A building used for worship by people of any faith or religion. Examples include a church, mosque, or synagogue. A person is shown on their knees praying, in this symbol.",
   },
@@ -1719,7 +1719,7 @@ const symbols = [
     symbols: "🔝 Top Arrow",
     "symbols-href": "https://emojipedia.org/top-arrow/",
     emoji: "🔝",
-    "emoji-name": "🔝 Top Arrow",
+    emojiName: "🔝 Top Arrow",
     description: 'The word "top" with an arrow pointing up above it.',
   },
   {
@@ -1728,7 +1728,7 @@ const symbols = [
     symbols: "🔜 Soon Arrow",
     "symbols-href": "https://emojipedia.org/soon-arrow/",
     emoji: "🔜",
-    "emoji-name": "🔜 Soon Arrow",
+    emojiName: "🔜 Soon Arrow",
     description:
       'The word "soon" with an arrow above it, pointing to the right.',
   },
@@ -1738,7 +1738,7 @@ const symbols = [
     symbols: "🔛 On! Arrow",
     "symbols-href": "https://emojipedia.org/on-arrow/",
     emoji: "🔛",
-    "emoji-name": "🔛 On! Arrow",
+    emojiName: "🔛 On! Arrow",
     description:
       "On! Arrow was approved as part of Unicode 6.0 in 2010 under the name “On with Exclamation Mark with Left Right Arrow Above” and added to Emoji 1.0 in 2015.",
   },
@@ -1748,7 +1748,7 @@ const symbols = [
     symbols: "🔚 End Arrow",
     "symbols-href": "https://emojipedia.org/end-arrow/",
     emoji: "🔚",
-    "emoji-name": "🔚 End Arrow",
+    emojiName: "🔚 End Arrow",
     description:
       "End Arrow was approved as part of Unicode 6.0 in 2010 under the name “End with Leftwards Arrow Above” and added to Emoji 1.0 in 2015.",
   },
@@ -1758,7 +1758,7 @@ const symbols = [
     symbols: "🔙 Back Arrow",
     "symbols-href": "https://emojipedia.org/back-arrow/",
     emoji: "🔙",
-    "emoji-name": "🔙 Back Arrow",
+    emojiName: "🔙 Back Arrow",
     description:
       "Back Arrow was approved as part of Unicode 6.0 in 2010 under the name “Back with Leftwards Arrow Above” and added to Emoji 1.0 in 2015.",
   },
@@ -1768,7 +1768,7 @@ const symbols = [
     symbols: "🔄 Counterclockwise Arrows Button",
     "symbols-href": "https://emojipedia.org/counterclockwise-arrows-button/",
     emoji: "🔄",
-    "emoji-name": "🔄 Counterclockwise Arrows Button",
+    emojiName: "🔄 Counterclockwise Arrows Button",
     description:
       "Two arrows forming a circle, pointing in an anticlockwise direction. Similar to symbols sometimes used for refresh or rotate. May also be used to indicate a task is in progress.",
   },
@@ -1778,7 +1778,7 @@ const symbols = [
     symbols: "🔃 Clockwise Vertical Arrows",
     "symbols-href": "https://emojipedia.org/clockwise-vertical-arrows/",
     emoji: "🔃",
-    "emoji-name": "🔃 Clockwise Vertical Arrows",
+    emojiName: "🔃 Clockwise Vertical Arrows",
     description:
       "Clockwise Vertical Arrows was approved as part of Unicode 6.0 in 2010 under the name “Clockwise Downwards and Upwards Open Circle Arrows” and added to Emoji 1.0 in 2015.",
   },
@@ -1788,7 +1788,7 @@ const symbols = [
     symbols: "⤵️ Right Arrow Curving Down",
     "symbols-href": "https://emojipedia.org/right-arrow-curving-down/",
     emoji: "⤵️",
-    "emoji-name": "⤵️ Right Arrow Curving Down",
+    emojiName: "⤵️ Right Arrow Curving Down",
     description: "A curved arrow pointing down.",
   },
   {
@@ -1797,7 +1797,7 @@ const symbols = [
     symbols: "⤴️ Right Arrow Curving Up",
     "symbols-href": "https://emojipedia.org/right-arrow-curving-up/",
     emoji: "⤴️",
-    "emoji-name": "⤴️ Right Arrow Curving Up",
+    emojiName: "⤴️ Right Arrow Curving Up",
     description: "A curved arrow pointing up.",
   },
   {
@@ -1806,7 +1806,7 @@ const symbols = [
     symbols: "↪️ Left Arrow Curving Right",
     "symbols-href": "https://emojipedia.org/left-arrow-curving-right/",
     emoji: "↪️",
-    "emoji-name": "↪️ Left Arrow Curving Right",
+    emojiName: "↪️ Left Arrow Curving Right",
     description:
       "An arrow pointing to the right, with a curved hook at the other end. Similar in appearance to a sideways U Turn symbol, or a forward icon in an email application.",
   },
@@ -1816,7 +1816,7 @@ const symbols = [
     symbols: "↩️ Right Arrow Curving Left",
     "symbols-href": "https://emojipedia.org/right-arrow-curving-left/",
     emoji: "↩️",
-    "emoji-name": "↩️ Right Arrow Curving Left",
+    emojiName: "↩️ Right Arrow Curving Left",
     description:
       "An arrow pointing to the left, with a curved hook at the other end. Similar in appearance to a sideways U Turn symbol, or a reply icon in an email application.",
   },
@@ -1826,7 +1826,7 @@ const symbols = [
     symbols: "↔️ Left-Right Arrow",
     "symbols-href": "https://emojipedia.org/left-right-arrow/",
     emoji: "↔️",
-    "emoji-name": "↔️ Left-Right Arrow",
+    emojiName: "↔️ Left-Right Arrow",
     description:
       "A horizontal line with arrowheads on both ends, pointing left and right.",
   },
@@ -1836,7 +1836,7 @@ const symbols = [
     symbols: "↕️ Up-Down Arrow",
     "symbols-href": "https://emojipedia.org/up-down-arrow/",
     emoji: "↕️",
-    "emoji-name": "↕️ Up-Down Arrow",
+    emojiName: "↕️ Up-Down Arrow",
     description:
       "A vertical line with arrowheads on both ends, pointing up and down.",
   },
@@ -1846,7 +1846,7 @@ const symbols = [
     symbols: "↖️ Up-Left Arrow",
     "symbols-href": "https://emojipedia.org/up-left-arrow/",
     emoji: "↖️",
-    "emoji-name": "↖️ Up-Left Arrow",
+    emojiName: "↖️ Up-Left Arrow",
     description:
       "An arrow pointing diagonally in an up-left, or north-west direction.",
   },
@@ -1856,7 +1856,7 @@ const symbols = [
     symbols: "⬅️ Left Arrow",
     "symbols-href": "https://emojipedia.org/left-arrow/",
     emoji: "⬅️",
-    "emoji-name": "⬅️ Left Arrow",
+    emojiName: "⬅️ Left Arrow",
     description: "An arrow, pointing left.",
   },
   {
@@ -1865,7 +1865,7 @@ const symbols = [
     symbols: "↙️ Down-Left Arrow",
     "symbols-href": "https://emojipedia.org/down-left-arrow/",
     emoji: "↙️",
-    "emoji-name": "↙️ Down-Left Arrow",
+    emojiName: "↙️ Down-Left Arrow",
     description:
       "An arrow pointing diagonally in an down-left, or south-west direction.",
   },
@@ -1875,7 +1875,7 @@ const symbols = [
     symbols: "⬇️ Down Arrow",
     "symbols-href": "https://emojipedia.org/down-arrow/",
     emoji: "⬇️",
-    "emoji-name": "⬇️ Down Arrow",
+    emojiName: "⬇️ Down Arrow",
     description: "An arrow, pointing down.",
   },
   {
@@ -1884,7 +1884,7 @@ const symbols = [
     symbols: "↘️ Down-Right Arrow",
     "symbols-href": "https://emojipedia.org/down-right-arrow/",
     emoji: "↘️",
-    "emoji-name": "↘️ Down-Right Arrow",
+    emojiName: "↘️ Down-Right Arrow",
     description:
       "An arrow pointing diagonally in an down-right, or south-east direction.",
   },
@@ -1894,7 +1894,7 @@ const symbols = [
     symbols: "➡️ Right Arrow",
     "symbols-href": "https://emojipedia.org/right-arrow/",
     emoji: "➡️",
-    "emoji-name": "➡️ Right Arrow",
+    emojiName: "➡️ Right Arrow",
     description: "An arrow, pointing right.",
   },
   {
@@ -1903,7 +1903,7 @@ const symbols = [
     symbols: "↗️ Up-Right Arrow",
     "symbols-href": "https://emojipedia.org/up-right-arrow/",
     emoji: "↗️",
-    "emoji-name": "↗️ Up-Right Arrow",
+    emojiName: "↗️ Up-Right Arrow",
     description:
       "An arrow pointing diagonally in an up-right, or north-east direction.",
   },
@@ -1913,7 +1913,7 @@ const symbols = [
     symbols: "⬆️ Up Arrow",
     "symbols-href": "https://emojipedia.org/up-arrow/",
     emoji: "⬆️",
-    "emoji-name": "⬆️ Up Arrow",
+    emojiName: "⬆️ Up Arrow",
     description: "An arrow, pointing up.",
   },
   {
@@ -1922,7 +1922,7 @@ const symbols = [
     symbols: "☣️ Biohazard",
     "symbols-href": "https://emojipedia.org/biohazard/",
     emoji: "☣️",
-    "emoji-name": "☣️ Biohazard",
+    emojiName: "☣️ Biohazard",
     description:
       "Biohazard was approved as part of Unicode 1.1 in 1993 under the name “Biohazard Sign” and added to Emoji 1.0 in 2015.",
   },
@@ -1932,7 +1932,7 @@ const symbols = [
     symbols: "☢️ Radioactive",
     "symbols-href": "https://emojipedia.org/radioactive/",
     emoji: "☢️",
-    "emoji-name": "☢️ Radioactive",
+    emojiName: "☢️ Radioactive",
     description:
       "A hazard symbol for radiation or radioactivity. May appear similar to a three-pronged fan at small sizes.",
   },
@@ -1942,7 +1942,7 @@ const symbols = [
     symbols: "🔞 No One Under Eighteen",
     "symbols-href": "https://emojipedia.org/no-one-under-eighteen/",
     emoji: "🔞",
-    "emoji-name": "🔞 No One Under Eighteen",
+    emojiName: "🔞 No One Under Eighteen",
     description:
       "The number eighteen with a red stroke through it, indicating a location where a person must be aged 18 or above to enter. Often used online to indicate adult or NSFW content.",
   },
@@ -1952,7 +1952,7 @@ const symbols = [
     symbols: "📵 No Mobile Phones",
     "symbols-href": "https://emojipedia.org/no-mobile-phones/",
     emoji: "📵",
-    "emoji-name": "📵 No Mobile Phones",
+    emojiName: "📵 No Mobile Phones",
     description:
       "A mobile phone with a red stroke through it, indicating that mobile phones should not be present. Often seen in restricted areas, such as Customs or Passport Control.",
   },
@@ -1962,7 +1962,7 @@ const symbols = [
     symbols: "🚷 No Pedestrians",
     "symbols-href": "https://emojipedia.org/no-pedestrians/",
     emoji: "🚷",
-    "emoji-name": "🚷 No Pedestrians",
+    emojiName: "🚷 No Pedestrians",
     description:
       "A pedestrian symbol with a red stroke through it, indicating that pedestrians are prohibited from this location.",
   },
@@ -1972,7 +1972,7 @@ const symbols = [
     symbols: "🚱 Non-Potable Water",
     "symbols-href": "https://emojipedia.org/non-potable-water/",
     emoji: "🚱",
-    "emoji-name": "🚱 Non-Potable Water",
+    emojiName: "🚱 Non-Potable Water",
     description:
       "A water tap with a red stroke through it, indicating that water is not safe for drinking (non-potable).",
   },
@@ -1982,7 +1982,7 @@ const symbols = [
     symbols: "🚯 No Littering",
     "symbols-href": "https://emojipedia.org/no-littering/",
     emoji: "🚯",
-    "emoji-name": "🚯 No Littering",
+    emojiName: "🚯 No Littering",
     description:
       "A person dropping litter (rubbish, trash) with a red stroke through it, indicating that littering is prohibited in this area.",
   },
@@ -1992,7 +1992,7 @@ const symbols = [
     symbols: "🚭 No Smoking",
     "symbols-href": "https://emojipedia.org/no-smoking/",
     emoji: "🚭",
-    "emoji-name": "🚭 No Smoking",
+    emojiName: "🚭 No Smoking",
     description:
       "No Smoking was approved as part of Unicode 6.0 in 2010 under the name “No Smoking Symbol” and added to Emoji 1.0 in 2015.",
   },
@@ -2002,7 +2002,7 @@ const symbols = [
     symbols: "🚳 No Bicycles",
     "symbols-href": "https://emojipedia.org/no-bicycles/",
     emoji: "🚳",
-    "emoji-name": "🚳 No Bicycles",
+    emojiName: "🚳 No Bicycles",
     description:
       "A bicycle with a red stroke through it, indicating that bikes are prohibited from this location.",
   },
@@ -2012,7 +2012,7 @@ const symbols = [
     symbols: "🚫 Prohibited",
     "symbols-href": "https://emojipedia.org/prohibited/",
     emoji: "🚫",
-    "emoji-name": "🚫 Prohibited",
+    emojiName: "🚫 Prohibited",
     description:
       "A red circle with a diagonal line through the middle, from top-left to bottom right, used to indicate that something is not permitted",
   },
@@ -2022,7 +2022,7 @@ const symbols = [
     symbols: "⛔ No Entry",
     "symbols-href": "https://emojipedia.org/no-entry/",
     emoji: "⛔",
-    "emoji-name": "⛔ No Entry",
+    emojiName: "⛔ No Entry",
     description:
       "No Entry was approved as part of Unicode 5.2 in 2009 and added to Emoji 1.0 in 2015.",
   },
@@ -2032,7 +2032,7 @@ const symbols = [
     symbols: "🚸 Children Crossing",
     "symbols-href": "https://emojipedia.org/children-crossing/",
     emoji: "🚸",
-    "emoji-name": "🚸 Children Crossing",
+    emojiName: "🚸 Children Crossing",
     description:
       "A crossing sign for children, usually positioned near schools or other areas that drivers should be cautious of young children in the area.",
   },
@@ -2042,7 +2042,7 @@ const symbols = [
     symbols: "⚠️ Warning",
     "symbols-href": "https://emojipedia.org/warning/",
     emoji: "⚠️",
-    "emoji-name": "⚠️ Warning",
+    emojiName: "⚠️ Warning",
     description:
       "A triangle with an exclamation mark inside, used as a warning or alert.",
   },
@@ -2052,7 +2052,7 @@ const symbols = [
     symbols: "🚾 Water Closet",
     "symbols-href": "https://emojipedia.org/water-closet/",
     emoji: "🚾",
-    "emoji-name": "🚾 Water Closet",
+    emojiName: "🚾 Water Closet",
     description:
       "A water closet is a name used for public toilet, bathroom or restroom used in some countries. Typically abbreviated to the letters WC, this may be found on signage in public buildings, as an alternative to the restroom symbol.",
   },
@@ -2062,7 +2062,7 @@ const symbols = [
     symbols: "🚼 Baby Symbol",
     "symbols-href": "https://emojipedia.org/baby-symbol/",
     emoji: "🚼",
-    "emoji-name": "🚼 Baby Symbol",
+    emojiName: "🚼 Baby Symbol",
     description:
       "The symbol for a baby, usually used to indicate a room that is suitable to change a baby in. Often located in or near public restrooms.",
   },
@@ -2072,7 +2072,7 @@ const symbols = [
     symbols: "🚻 Restroom",
     "symbols-href": "https://emojipedia.org/restroom/",
     emoji: "🚻",
-    "emoji-name": "🚻 Restroom",
+    emojiName: "🚻 Restroom",
     description:
       "A restroom symbol, depicting a iconography of a man and woman. Used to indicate the location of public bathrooms / toilets / restrooms.",
   },
@@ -2082,7 +2082,7 @@ const symbols = [
     symbols: "🚺 Women’s Room",
     "symbols-href": "https://emojipedia.org/womens-room/",
     emoji: "🚺",
-    "emoji-name": "🚺 Women’s Room",
+    emojiName: "🚺 Women’s Room",
     description:
       "A stick-figure icon of a woman, generally used to indicate a female restroom. The male equivalent is the Mens Symbol emoji.",
   },
@@ -2092,7 +2092,7 @@ const symbols = [
     symbols: "🚹 Men’s Room",
     "symbols-href": "https://emojipedia.org/mens-room/",
     emoji: "🚹",
-    "emoji-name": "🚹 Men’s Room",
+    emojiName: "🚹 Men’s Room",
     description:
       "A stick-figure icon of a man, generally used to indicate a male restroom. The female equivalent is the Womens Symbol emoji.",
   },
@@ -2102,7 +2102,7 @@ const symbols = [
     symbols: "♿ Wheelchair Symbol",
     "symbols-href": "https://emojipedia.org/wheelchair-symbol/",
     emoji: "♿",
-    "emoji-name": "♿ Wheelchair Symbol",
+    emojiName: "♿ Wheelchair Symbol",
     description:
       "The international symbol of access, used to denote a facility which has been designed with accessibility or people in wheelchairs in mind. Appears as a blue sign, with a white graphic of a person sitting in a wheelchair.",
   },
@@ -2112,7 +2112,7 @@ const symbols = [
     symbols: "🚰 Potable Water",
     "symbols-href": "https://emojipedia.org/potable-water/",
     emoji: "🚰",
-    "emoji-name": "🚰 Potable Water",
+    emojiName: "🚰 Potable Water",
     description:
       "A symbol for potable (drinkable) water, usually shown with a faucet filling a drinking glass. Commonly used for various content concerning water, drinking, thirst, and dripping.",
   },
@@ -2122,7 +2122,7 @@ const symbols = [
     symbols: "🚮 Litter in Bin Sign",
     "symbols-href": "https://emojipedia.org/litter-in-bin-sign/",
     emoji: "🚮",
-    "emoji-name": "🚮 Litter in Bin Sign",
+    emojiName: "🚮 Litter in Bin Sign",
     description:
       "A symbol showing a person putting litter (rubbish) in the trash (rubbish bin). A more positive version of the Do Not Litter Symbol.",
   },
@@ -2132,7 +2132,7 @@ const symbols = [
     symbols: "🏧 ATM Sign",
     "symbols-href": "https://emojipedia.org/atm-sign/",
     emoji: "🏧",
-    "emoji-name": "🏧 ATM Sign",
+    emojiName: "🏧 ATM Sign",
     description:
       "ATM Sign was approved as part of Unicode 6.0 in 2010 under the name “Automated Teller Machine” and added to Emoji 1.0 in 2015.",
   },
@@ -2142,7 +2142,7 @@ const symbols = [
     symbols: "🛗 Elevator",
     "symbols-href": "https://emojipedia.org/elevator/",
     emoji: "🛗",
-    "emoji-name": "🛗 Elevator",
+    emojiName: "🛗 Elevator",
     description:
       "A symbol showing two or three people standing in a square with up and down arrows above them. Most platforms feature a simple blue and white design.",
   },
@@ -2152,7 +2152,7 @@ const symbols = [
     symbols: "💹 Chart Increasing with Yen",
     "symbols-href": "https://emojipedia.org/chart-increasing-with-yen/",
     emoji: "💹",
-    "emoji-name": "💹 Chart Increasing with Yen",
+    emojiName: "💹 Chart Increasing with Yen",
     description: "A graph showing the value of the Japanese Yen rising.",
   },
   {
@@ -2161,7 +2161,7 @@ const symbols = [
     symbols: "🎶 Musical Notes",
     "symbols-href": "https://emojipedia.org/musical-notes/",
     emoji: "🎶",
-    "emoji-name": "🎶 Musical Notes",
+    emojiName: "🎶 Musical Notes",
     description:
       "Three eighth notes (quavers in British English), used to represent music or singing. Sometimes inserted next to quoted lyrics, to make it clear that they are part of a song.",
   },
@@ -2171,7 +2171,7 @@ const symbols = [
     symbols: "🎵 Musical Note",
     "symbols-href": "https://emojipedia.org/musical-note/",
     emoji: "🎵",
-    "emoji-name": "🎵 Musical Note",
+    emojiName: "🎵 Musical Note",
     description:
       "A music note emoji, which can denote song lyrics, or other music related topics.",
   },
@@ -2181,7 +2181,7 @@ const symbols = [
     symbols: "🔕 Bell with Slash",
     "symbols-href": "https://emojipedia.org/bell-with-slash/",
     emoji: "🔕",
-    "emoji-name": "🔕 Bell with Slash",
+    emojiName: "🔕 Bell with Slash",
     description:
       "A gold or yellow bell with a red line through it, which is commonly used on mobile phones as an icon for the silencing of notifications or ringing sounds. A mute, or silent mode.",
   },
@@ -2191,7 +2191,7 @@ const symbols = [
     symbols: "🔔 Bell",
     "symbols-href": "https://emojipedia.org/bell/",
     emoji: "🔔",
-    "emoji-name": "🔔 Bell",
+    emojiName: "🔔 Bell",
     description:
       "A gold or yellow bell, which is commonly used on mobile phones as an icon for notifications or ringing sounds.",
   },
@@ -2201,7 +2201,7 @@ const symbols = [
     symbols: "📯 Postal Horn",
     "symbols-href": "https://emojipedia.org/postal-horn/",
     emoji: "📯",
-    "emoji-name": "📯 Postal Horn",
+    emojiName: "📯 Postal Horn",
     description:
       "A postal horn (post horn). Depicted as a coiled, valveless, brass horn, like a bugle or trumpet, with two red tassels. Sometimes used to mark announcements as well as for various content concerning brass instruments, music, or mail.",
   },
@@ -2211,7 +2211,7 @@ const symbols = [
     symbols: "📣 Megaphone",
     "symbols-href": "https://emojipedia.org/megaphone/",
     emoji: "📣",
-    "emoji-name": "📣 Megaphone",
+    emojiName: "📣 Megaphone",
     description:
       "Megaphone was approved as part of Unicode 6.0 in 2010 under the name “Cheering Megaphone” and added to Emoji 1.0 in 2015.",
   },
@@ -2221,7 +2221,7 @@ const symbols = [
     symbols: "📢 Loudspeaker",
     "symbols-href": "https://emojipedia.org/loudspeaker/",
     emoji: "📢",
-    "emoji-name": "📢 Loudspeaker",
+    emojiName: "📢 Loudspeaker",
     description:
       "A loudspeaker used to make announcements in public areas such as schools, or sporting grounds.",
   },
@@ -2231,7 +2231,7 @@ const symbols = [
     symbols: "🔊 Speaker High Volume",
     "symbols-href": "https://emojipedia.org/speaker-high-volume/",
     emoji: "🔊",
-    "emoji-name": "🔊 Speaker High Volume",
+    emojiName: "🔊 Speaker High Volume",
     description:
       "A speaker cone displayed with three sound waves, generally used as an icon to indicate the increasing of volume on a phone or computer.",
   },
@@ -2241,7 +2241,7 @@ const symbols = [
     symbols: "🔉 Speaker Medium Volume",
     "symbols-href": "https://emojipedia.org/speaker-medium-volume/",
     emoji: "🔉",
-    "emoji-name": "🔉 Speaker Medium Volume",
+    emojiName: "🔉 Speaker Medium Volume",
     description:
       "A speaker cone displayed with one sound wave, generally used as an icon to indicate the decreasing of volume on a phone or computer.",
   },
@@ -2251,7 +2251,7 @@ const symbols = [
     symbols: "🔈 Speaker Low Volume",
     "symbols-href": "https://emojipedia.org/speaker-low-volume/",
     emoji: "🔈",
-    "emoji-name": "🔈 Speaker Low Volume",
+    emojiName: "🔈 Speaker Low Volume",
     description: "A speaker cone displayed without any sound waves.",
   },
   {
@@ -2260,7 +2260,7 @@ const symbols = [
     symbols: "🔇 Muted Speaker",
     "symbols-href": "https://emojipedia.org/muted-speaker/",
     emoji: "🔇",
-    "emoji-name": "🔇 Muted Speaker",
+    emojiName: "🔇 Muted Speaker",
     description:
       "A speaker with a red line through it, indicating muted volume or silencing of audio.",
   },
@@ -2270,7 +2270,7 @@ const symbols = [
     symbols: "🎴 Flower Playing Cards",
     "symbols-href": "https://emojipedia.org/flower-playing-cards/",
     emoji: "🎴",
-    "emoji-name": "🎴 Flower Playing Cards",
+    emojiName: "🎴 Flower Playing Cards",
     description:
       "A type of cards known as hanafuda cards in Japan which are used for a range of different games that require associating pictures (there are no numbers on the cards).",
   },
@@ -2280,7 +2280,7 @@ const symbols = [
     symbols: "🀄 Mahjong Red Dragon",
     "symbols-href": "https://emojipedia.org/mahjong-red-dragon/",
     emoji: "🀄",
-    "emoji-name": "🀄 Mahjong Red Dragon",
+    emojiName: "🀄 Mahjong Red Dragon",
     description:
       "The red dragon tile in the game of Japanese Mahjong. White, with red 中 character printed on it.",
   },
@@ -2290,7 +2290,7 @@ const symbols = [
     symbols: "🃏 Joker",
     "symbols-href": "https://emojipedia.org/joker/",
     emoji: "🃏",
-    "emoji-name": "🃏 Joker",
+    emojiName: "🃏 Joker",
     description:
       "The joker in a deck of cards, usually appearing like a court jester.",
   },
@@ -2300,7 +2300,7 @@ const symbols = [
     symbols: "♣️ Club Suit",
     "symbols-href": "https://emojipedia.org/club-suit/",
     emoji: "♣️",
-    "emoji-name": "♣️ Club Suit",
+    emojiName: "♣️ Club Suit",
     description:
       "A club symbol emoji, which is used in card games for the clubs suit.",
   },
@@ -2310,7 +2310,7 @@ const symbols = [
     symbols: "♦️ Diamond Suit",
     "symbols-href": "https://emojipedia.org/diamond-suit/",
     emoji: "♦️",
-    "emoji-name": "♦️ Diamond Suit",
+    emojiName: "♦️ Diamond Suit",
     description:
       "A diamond symbol emoji, which is used in card games for the diamonds suit.",
   },
@@ -2320,7 +2320,7 @@ const symbols = [
     symbols: "♥️ Heart Suit",
     "symbols-href": "https://emojipedia.org/heart-suit/",
     emoji: "♥️",
-    "emoji-name": "♥️ Heart Suit",
+    emojiName: "♥️ Heart Suit",
     description:
       "A heart symbol emoji, used in card games for the hearts suit. In emoji form, this is most commonly used for love, affectiction, romance and positive intentions. Sometimes shown in a slightly darker shade of red than ❤️ Red Heart.",
   },
@@ -2330,7 +2330,7 @@ const symbols = [
     symbols: "♠️ Spade Suit",
     "symbols-href": "https://emojipedia.org/spade-suit/",
     emoji: "♠️",
-    "emoji-name": "♠️ Spade Suit",
+    emojiName: "♠️ Spade Suit",
     description:
       "A spade symbol emoji, which is used in card games for the spades suit.",
   },
@@ -2340,7 +2340,7 @@ const symbols = [
     symbols: "🌀 Cyclone",
     "symbols-href": "https://emojipedia.org/cyclone/",
     emoji: "🌀",
-    "emoji-name": "🌀 Cyclone",
+    emojiName: "🌀 Cyclone",
     description:
       "An icon used to represent a cyclone. Some versions of this emoji show a spiral shape, which may be used for decorative purposes.",
   },
@@ -2350,7 +2350,7 @@ const symbols = [
     symbols: "🕦 Eleven-Thirty",
     "symbols-href": "https://emojipedia.org/eleven-thirty/",
     emoji: "🕦",
-    "emoji-name": "🕦 Eleven-Thirty",
+    emojiName: "🕦 Eleven-Thirty",
     description:
       "Eleven-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Eleven-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2360,7 +2360,7 @@ const symbols = [
     symbols: "🕚 Eleven O’Clock",
     "symbols-href": "https://emojipedia.org/eleven-oclock/",
     emoji: "🕚",
-    "emoji-name": "🕚 Eleven O’Clock",
+    emojiName: "🕚 Eleven O’Clock",
     description:
       "Eleven O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Eleven O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2370,7 +2370,7 @@ const symbols = [
     symbols: "🕥 Ten-Thirty",
     "symbols-href": "https://emojipedia.org/ten-thirty/",
     emoji: "🕥",
-    "emoji-name": "🕥 Ten-Thirty",
+    emojiName: "🕥 Ten-Thirty",
     description:
       "Ten-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Ten-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2380,7 +2380,7 @@ const symbols = [
     symbols: "🕙 Ten O’Clock",
     "symbols-href": "https://emojipedia.org/ten-oclock/",
     emoji: "🕙",
-    "emoji-name": "🕙 Ten O’Clock",
+    emojiName: "🕙 Ten O’Clock",
     description:
       "Ten O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Ten O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2390,7 +2390,7 @@ const symbols = [
     symbols: "🕤 Nine-Thirty",
     "symbols-href": "https://emojipedia.org/nine-thirty/",
     emoji: "🕤",
-    "emoji-name": "🕤 Nine-Thirty",
+    emojiName: "🕤 Nine-Thirty",
     description:
       "Nine-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Nine-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2400,7 +2400,7 @@ const symbols = [
     symbols: "🕘 Nine O’Clock",
     "symbols-href": "https://emojipedia.org/nine-oclock/",
     emoji: "🕘",
-    "emoji-name": "🕘 Nine O’Clock",
+    emojiName: "🕘 Nine O’Clock",
     description:
       "Nine O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Nine O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2410,7 +2410,7 @@ const symbols = [
     symbols: "🕣 Eight-Thirty",
     "symbols-href": "https://emojipedia.org/eight-thirty/",
     emoji: "🕣",
-    "emoji-name": "🕣 Eight-Thirty",
+    emojiName: "🕣 Eight-Thirty",
     description:
       "Eight-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Eight-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2420,7 +2420,7 @@ const symbols = [
     symbols: "🕗 Eight O’Clock",
     "symbols-href": "https://emojipedia.org/eight-oclock/",
     emoji: "🕗",
-    "emoji-name": "🕗 Eight O’Clock",
+    emojiName: "🕗 Eight O’Clock",
     description:
       "Eight O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Eight O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2430,7 +2430,7 @@ const symbols = [
     symbols: "🕢 Seven-Thirty",
     "symbols-href": "https://emojipedia.org/seven-thirty/",
     emoji: "🕢",
-    "emoji-name": "🕢 Seven-Thirty",
+    emojiName: "🕢 Seven-Thirty",
     description:
       "Seven-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Seven-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2440,7 +2440,7 @@ const symbols = [
     symbols: "🕖 Seven O’Clock",
     "symbols-href": "https://emojipedia.org/seven-oclock/",
     emoji: "🕖",
-    "emoji-name": "🕖 Seven O’Clock",
+    emojiName: "🕖 Seven O’Clock",
     description:
       "Seven O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Seven O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2450,7 +2450,7 @@ const symbols = [
     symbols: "🕡 Six-Thirty",
     "symbols-href": "https://emojipedia.org/six-thirty/",
     emoji: "🕡",
-    "emoji-name": "🕡 Six-Thirty",
+    emojiName: "🕡 Six-Thirty",
     description:
       "Six-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Six-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2460,7 +2460,7 @@ const symbols = [
     symbols: "🕕 Six O’Clock",
     "symbols-href": "https://emojipedia.org/six-oclock/",
     emoji: "🕕",
-    "emoji-name": "🕕 Six O’Clock",
+    emojiName: "🕕 Six O’Clock",
     description:
       "Six O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Six O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2470,7 +2470,7 @@ const symbols = [
     symbols: "🕠 Five-Thirty",
     "symbols-href": "https://emojipedia.org/five-thirty/",
     emoji: "🕠",
-    "emoji-name": "🕠 Five-Thirty",
+    emojiName: "🕠 Five-Thirty",
     description:
       "Five-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Five-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2480,7 +2480,7 @@ const symbols = [
     symbols: "🕔 Five O’Clock",
     "symbols-href": "https://emojipedia.org/five-oclock/",
     emoji: "🕔",
-    "emoji-name": "🕔 Five O’Clock",
+    emojiName: "🕔 Five O’Clock",
     description:
       "Five O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Five O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2490,7 +2490,7 @@ const symbols = [
     symbols: "🕟 Four-Thirty",
     "symbols-href": "https://emojipedia.org/four-thirty/",
     emoji: "🕟",
-    "emoji-name": "🕟 Four-Thirty",
+    emojiName: "🕟 Four-Thirty",
     description:
       "Four-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Four-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2500,7 +2500,7 @@ const symbols = [
     symbols: "🕓 Four O’Clock",
     "symbols-href": "https://emojipedia.org/four-oclock/",
     emoji: "🕓",
-    "emoji-name": "🕓 Four O’Clock",
+    emojiName: "🕓 Four O’Clock",
     description:
       "Four O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Four O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2510,7 +2510,7 @@ const symbols = [
     symbols: "🕞 Three-Thirty",
     "symbols-href": "https://emojipedia.org/three-thirty/",
     emoji: "🕞",
-    "emoji-name": "🕞 Three-Thirty",
+    emojiName: "🕞 Three-Thirty",
     description:
       "Three-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Three-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2520,7 +2520,7 @@ const symbols = [
     symbols: "🕒 Three O’Clock",
     "symbols-href": "https://emojipedia.org/three-oclock/",
     emoji: "🕒",
-    "emoji-name": "🕒 Three O’Clock",
+    emojiName: "🕒 Three O’Clock",
     description:
       "Three O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Three O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2530,7 +2530,7 @@ const symbols = [
     symbols: "🕝 Two-Thirty",
     "symbols-href": "https://emojipedia.org/two-thirty/",
     emoji: "🕝",
-    "emoji-name": "🕝 Two-Thirty",
+    emojiName: "🕝 Two-Thirty",
     description:
       "Two-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Two-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2540,7 +2540,7 @@ const symbols = [
     symbols: "🕑 Two O’Clock",
     "symbols-href": "https://emojipedia.org/two-oclocktime/",
     emoji: "🕑",
-    "emoji-name": "🕑 Two O’Clock",
+    emojiName: "🕑 Two O’Clock",
     description:
       "Two O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Two O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2550,7 +2550,7 @@ const symbols = [
     symbols: "🕜 One-Thirty",
     "symbols-href": "https://emojipedia.org/one-thirty/",
     emoji: "🕜",
-    "emoji-name": "🕜 One-Thirty",
+    emojiName: "🕜 One-Thirty",
     description:
       "One-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face One-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2560,7 +2560,7 @@ const symbols = [
     symbols: "🕐 One O’Clock",
     "symbols-href": "https://emojipedia.org/one-oclock/",
     emoji: "🕐",
-    "emoji-name": "🕐 One O’Clock",
+    emojiName: "🕐 One O’Clock",
     description:
       "One O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face One O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2570,7 +2570,7 @@ const symbols = [
     symbols: "🕧 Twelve-Thirty",
     "symbols-href": "https://emojipedia.org/twelve-thirty/",
     emoji: "🕧",
-    "emoji-name": "🕧 Twelve-Thirty",
+    emojiName: "🕧 Twelve-Thirty",
     description:
       "Twelve-Thirty was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Twelve-Thirty” and added to Emoji 1.0 in 2015.",
   },
@@ -2580,7 +2580,7 @@ const symbols = [
     symbols: "🕛 Twelve O’Clock",
     "symbols-href": "https://emojipedia.org/twelve-oclock/",
     emoji: "🕛",
-    "emoji-name": "🕛 Twelve O’Clock",
+    emojiName: "🕛 Twelve O’Clock",
     description:
       "Twelve O’Clock was approved as part of Unicode 6.0 in 2010 under the name “Clock Face Twelve O’Clock” and added to Emoji 1.0 in 2015.",
   },
@@ -2590,7 +2590,7 @@ const symbols = [
     symbols: "🛑 Stop Sign",
     "symbols-href": "https://emojipedia.org/stop-sign/",
     emoji: "🛑",
-    "emoji-name": "🛑 Stop Sign",
+    emojiName: "🛑 Stop Sign",
     description:
       "A red, octagonal sign. Used in many countries as a stop sign.",
   },
@@ -2600,7 +2600,7 @@ const symbols = [
     symbols: "💈 Barber Pole",
     "symbols-href": "https://emojipedia.org/barber-pole/",
     emoji: "💈",
-    "emoji-name": "💈 Barber Pole",
+    emojiName: "💈 Barber Pole",
     description:
       "A pole spiraled with red, white, and blue stripes, as spins out front of a barbershop. Commonly used for various content concerning haircutting and hairstyling.",
   },
@@ -2610,7 +2610,7 @@ const symbols = [
     symbols: "♨️ Hot Springs",
     "symbols-href": "https://emojipedia.org/hot-springs/",
     emoji: "♨️",
-    "emoji-name": "♨️ Hot Springs",
+    emojiName: "♨️ Hot Springs",
     description:
       "Representation of hot springs with steam rising from a circular tub. This is the common symbol used to represent an onsen on maps in Japan.",
   },
@@ -2620,7 +2620,7 @@ const symbols = [
     symbols: "💮 White Flower",
     "symbols-href": "https://emojipedia.org/white-flower/",
     emoji: "💮",
-    "emoji-name": "💮 White Flower",
+    emojiName: "💮 White Flower",
     description:
       "A stylized white flower. Generally depicted as a rosette-shaped cherry blossom in pink or red outline, often with a white fill.",
   },
@@ -2630,7 +2630,7 @@ const symbols = [
     symbols: "💤 Zzz",
     "symbols-href": "https://emojipedia.org/zzz/",
     emoji: "💤",
-    "emoji-name": "💤 Zzz",
+    emojiName: "💤 Zzz",
     description:
       "A series of three Zs making a Zzz. Represents sleeping, snoring, dreaming, or any sleep-related state. Can also be used in some contexts to represent something that is boring.",
   },
@@ -2640,7 +2640,7 @@ const symbols = [
     symbols: "💭 Thought Balloon",
     "symbols-href": "https://emojipedia.org/thought-balloon/",
     emoji: "💭",
-    "emoji-name": "💭 Thought Balloon",
+    emojiName: "💭 Thought Balloon",
     description:
       "A large cloud-like shape more commonly known as a thought bubble.",
   },
@@ -2650,7 +2650,7 @@ const symbols = [
     symbols: "🗯️ Right Anger Bubble",
     "symbols-href": "https://emojipedia.org/right-anger-bubble/",
     emoji: "🗯️",
-    "emoji-name": "🗯️ Right Anger Bubble",
+    emojiName: "🗯️ Right Anger Bubble",
     description:
       "A form of speech balloon used with angular edges, used to denote angry speech in comics.",
   },
@@ -2660,7 +2660,7 @@ const symbols = [
     symbols: "🗨️ Left Speech Bubble",
     "symbols-href": "https://emojipedia.org/left-speech-bubble/",
     emoji: "🗨️",
-    "emoji-name": "🗨️ Left Speech Bubble",
+    emojiName: "🗨️ Left Speech Bubble",
     description:
       "A left-facing speech bubble, which was included in Unicode 7.0, but not considered a standard addition for the purposes of emoji presentation.",
   },
@@ -2670,7 +2670,7 @@ const symbols = [
     symbols: "👁️‍🗨️ Eye in Speech Bubble",
     "symbols-href": "https://emojipedia.org/eye-in-speech-bubble/",
     emoji: "👁️‍🗨️",
-    "emoji-name": "👁️‍🗨️ Eye in Speech Bubble",
+    emojiName: "👁️‍🗨️ Eye in Speech Bubble",
     description:
       'A speech bubble showing an eye inside. When using text-to-speech on Apple platforms, this emoji is read aloud as: "Eye in speech bubble representing anti-bullying campaign". This emoji was released in conjunction with the Ad Council for the I Am A Witness campaign.',
   },
@@ -2680,7 +2680,7 @@ const symbols = [
     symbols: "💬 Speech Balloon",
     "symbols-href": "https://emojipedia.org/speech-balloon/",
     emoji: "💬",
-    "emoji-name": "💬 Speech Balloon",
+    emojiName: "💬 Speech Balloon",
     description:
       "A cartoon-style balloon used to represent spoken word in comics. Sometimes  used in communication apps to indicate that another person is typing a message.",
   },
@@ -2690,7 +2690,7 @@ const symbols = [
     symbols: "💢 Anger Symbol",
     "symbols-href": "https://emojipedia.org/anger-symbol/",
     emoji: "💢",
-    "emoji-name": "💢 Anger Symbol",
+    emojiName: "💢 Anger Symbol",
     description:
       "A red symbol found in Anime/Manga and used to represent the veins popping on a very angry person.",
   },
@@ -2700,7 +2700,7 @@ const symbols = [
     symbols: "💯 Hundred Points",
     "symbols-href": "https://emojipedia.org/hundred-points/",
     emoji: "💯",
-    "emoji-name": "💯 Hundred Points",
+    emojiName: "💯 Hundred Points",
     description:
       "100 emoji: the number one-hundred, written in red, underlined twice for emphasis.",
   },
@@ -2710,7 +2710,7 @@ const symbols = [
     symbols: "🤍 White Heart",
     "symbols-href": "https://emojipedia.org/white-heart/",
     emoji: "🤍",
-    "emoji-name": "🤍 White Heart",
+    emojiName: "🤍 White Heart",
     description:
       "A white heart emoji, used for love and affection. Also commonly used to discuss someone passing away.",
   },
@@ -2720,7 +2720,7 @@ const symbols = [
     symbols: "🖤 Black Heart",
     "symbols-href": "https://emojipedia.org/black-heart/",
     emoji: "🖤",
-    "emoji-name": "🖤 Black Heart",
+    emojiName: "🖤 Black Heart",
     description:
       "A heart shaded completely black. May be used to express morbidity, sorrow, or a form of dark humor, but despite the color remains most commonly used for love and affection.",
   },
@@ -2730,7 +2730,7 @@ const symbols = [
     symbols: "🤎 Brown Heart",
     "symbols-href": "https://emojipedia.org/brown-heart/",
     emoji: "🤎",
-    "emoji-name": "🤎 Brown Heart",
+    emojiName: "🤎 Brown Heart",
     description:
       "A brown heart, often used discuss topics related to racial identity 🧑🏽🧑🏾🧑🏿",
   },
@@ -2740,7 +2740,7 @@ const symbols = [
     symbols: "💜 Purple Heart",
     "symbols-href": "https://emojipedia.org/purple-heart/",
     emoji: "💜",
-    "emoji-name": "💜 Purple Heart",
+    emojiName: "💜 Purple Heart",
     description:
       "A purple heart emoji, often used alongside other colored hearts. Frequently used on Twitter in reference to Korean boy band Bangtan Sonyeondan, more commonly known as BTS.",
   },
@@ -2750,7 +2750,7 @@ const symbols = [
     symbols: "💙 Blue Heart",
     "symbols-href": "https://emojipedia.org/blue-heart/",
     emoji: "💙",
-    "emoji-name": "💙 Blue Heart",
+    emojiName: "💙 Blue Heart",
     description:
       "A blue heart emoji, commonly used by brands as a neutral heart color.",
   },
@@ -2760,7 +2760,7 @@ const symbols = [
     symbols: "💚 Green Heart",
     "symbols-href": "https://emojipedia.org/green-heart/",
     emoji: "💚",
-    "emoji-name": "💚 Green Heart",
+    emojiName: "💚 Green Heart",
     description:
       "A green heart emoji, often used alongside other colored hearts. Frequently used on Twitter in reference to Korean boy band NCT.",
   },
@@ -2770,7 +2770,7 @@ const symbols = [
     symbols: "💛 Yellow Heart",
     "symbols-href": "https://emojipedia.org/yellow-heart/",
     emoji: "💛",
-    "emoji-name": "💛 Yellow Heart",
+    emojiName: "💛 Yellow Heart",
     description:
       "A yellow or gold colored love-heart, frequently used alongside other colored hearts. This displayed as a pink hairy heart on Android 4.4.",
   },
@@ -2780,7 +2780,7 @@ const symbols = [
     symbols: "🧡 Orange Heart",
     "symbols-href": "https://emojipedia.org/orange-heart/",
     emoji: "🧡",
-    "emoji-name": "🧡 Orange Heart",
+    emojiName: "🧡 Orange Heart",
     description:
       "Orange Heart was approved as part of Unicode 10.0 in 2017 and added to Emoji 5.0 in 2017.",
   },
@@ -2790,7 +2790,7 @@ const symbols = [
     symbols: "❤️ Red Heart",
     "symbols-href": "https://emojipedia.org/red-heart/",
     emoji: "❤️",
-    "emoji-name": "❤️ Red Heart",
+    emojiName: "❤️ Red Heart",
     description:
       "A classic red love heart emoji, used for expressions of love and romance. This is the most popular heart emoji A similar emoji exists for the heart suit in a deck of playing cards.",
   },
@@ -2800,7 +2800,7 @@ const symbols = [
     symbols: "❤️‍🩹 Mending Heart",
     "symbols-href": "https://emojipedia.org/mending-heart/",
     emoji: "❤️‍🩹",
-    "emoji-name": "❤️‍🩹 Mending Heart",
+    emojiName: "❤️‍🩹 Mending Heart",
     description:
       "A heart shown with a bandage across one side; the opposite of a broken heart. May be used to indicate the process of healing, recovery, or to express sympathy for someone going through a difficult time.",
   },
@@ -2810,7 +2810,7 @@ const symbols = [
     symbols: "❤️‍🔥 Heart on Fire",
     "symbols-href": "https://emojipedia.org/heart-on-fire/",
     emoji: "❤️‍🔥",
-    "emoji-name": "❤️‍🔥 Heart on Fire",
+    emojiName: "❤️‍🔥 Heart on Fire",
     description:
       "A heart shown on fire, for extreme or passionate forms of love or lust. Most representative of desire or lust, this emoji may also indicate a sense of burning a past love and moving on.",
   },
@@ -2820,7 +2820,7 @@ const symbols = [
     symbols: "💔 Broken Heart",
     "symbols-href": "https://emojipedia.org/broken-heart/",
     emoji: "💔",
-    "emoji-name": "💔 Broken Heart",
+    emojiName: "💔 Broken Heart",
     description:
       "A love heart, broken in two. This emoji represents the aching one feels when they are missing the person they love.",
   },
@@ -2830,7 +2830,7 @@ const symbols = [
     symbols: "❣️ Heart Exclamation",
     "symbols-href": "https://emojipedia.org/heart-exclamation/",
     emoji: "❣️",
-    "emoji-name": "❣️ Heart Exclamation",
+    emojiName: "❣️ Heart Exclamation",
     description:
       "A decorative exclamation mark, where a heart forms the top part of the symbol, and a circle the lower part. Similar to the way to the man in business suit levitating also creates a similar shape.",
   },
@@ -2840,7 +2840,7 @@ const symbols = [
     symbols: "💟 Heart Decoration",
     "symbols-href": "https://emojipedia.org/heart-decoration/",
     emoji: "💟",
-    "emoji-name": "💟 Heart Decoration",
+    emojiName: "💟 Heart Decoration",
     description:
       "A decorative heart that generally displays as a white heart-shaped cutout in a pink or purple roundrect.",
   },
@@ -2850,7 +2850,7 @@ const symbols = [
     symbols: "💕 Two Hearts",
     "symbols-href": "https://emojipedia.org/two-hearts/",
     emoji: "💕",
-    "emoji-name": "💕 Two Hearts",
+    emojiName: "💕 Two Hearts",
     description:
       "Two pink love hearts. One larger than the other. Can be used to display that “love is in the air”.",
   },
@@ -2860,7 +2860,7 @@ const symbols = [
     symbols: "💞 Revolving Hearts",
     "symbols-href": "https://emojipedia.org/revolving-hearts/",
     emoji: "💞",
-    "emoji-name": "💞 Revolving Hearts",
+    emojiName: "💞 Revolving Hearts",
     description:
       "Hearts revolving around one or more other hearts. This emoji was originally animated on a number of Japanese devices.",
   },
@@ -2870,7 +2870,7 @@ const symbols = [
     symbols: "💓 Beating Heart",
     "symbols-href": "https://emojipedia.org/beating-heart/",
     emoji: "💓",
-    "emoji-name": "💓 Beating Heart",
+    emojiName: "💓 Beating Heart",
     description:
       "A heart with vibration/movement lines above it or around it, indicating it is beating. Displayed in pink or red on most platforms.",
   },
@@ -2880,7 +2880,7 @@ const symbols = [
     symbols: "💗 Growing Heart",
     "symbols-href": "https://emojipedia.org/growing-heart/",
     emoji: "💗",
-    "emoji-name": "💗 Growing Heart",
+    emojiName: "💗 Growing Heart",
     description:
       "A pink heart, inside a slightly larger pink heart, inside a larger-again pink heart. Intended to give the impression of a heart increasing in size.",
   },
@@ -2890,7 +2890,7 @@ const symbols = [
     symbols: "💖 Sparkling Heart",
     "symbols-href": "https://emojipedia.org/sparkling-heart/",
     emoji: "💖",
-    "emoji-name": "💖 Sparkling Heart",
+    emojiName: "💖 Sparkling Heart",
     description:
       "A pink love heart with stars around it, making it look like it is sparkling or shimmering.",
   },
@@ -2900,7 +2900,7 @@ const symbols = [
     symbols: "💝 Heart with Ribbon",
     "symbols-href": "https://emojipedia.org/heart-with-ribbon/",
     emoji: "💝",
-    "emoji-name": "💝 Heart with Ribbon",
+    emojiName: "💝 Heart with Ribbon",
     description:
       "A heart-shaped box, tied with a ribbon. May be a gift box, box of chocolates, or a jewellery box.",
   },
@@ -2910,7 +2910,7 @@ const symbols = [
     symbols: "💘 Heart with Arrow",
     "symbols-href": "https://emojipedia.org/heart-with-arrow/",
     emoji: "💘",
-    "emoji-name": "💘 Heart with Arrow",
+    emojiName: "💘 Heart with Arrow",
     description:
       "A heart emoji with an arrow through the center, like the arrow that cupid shoots for love.",
   },

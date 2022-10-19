@@ -9,7 +9,7 @@ let options = {
 
 new ActiveMenuLink(".sidebar-category", options);
 
-export default function SideBar() {
+export default function SideBar(props) {
   return (
     <>
       <div className="sidebar-container">
@@ -20,42 +20,42 @@ export default function SideBar() {
             </div>
             <ul>
               <li>
-                <a href="#people">
+                <a href={props.people}>
                   <span className="list">People</span>
                 </a>
               </li>
               <li>
-                <a href="#animal">
+                <a href={props.animal}>
                   <span className="list">Animal and Nature</span>
                 </a>
               </li>
               <li>
-                <a href="#food">
+                <a href={props.food}>
                   <span className="list">Food and Drinks</span>
                 </a>
               </li>
               <li>
-                <a href="#activity">
+                <a href={props.activity}>
                   <span className="list">Activity</span>
                 </a>
               </li>
               <li>
-                <a href="#travel">
+                <a href={props.travel}>
                   <span className="list">Travel and Places</span>
                 </a>
               </li>
               <li>
-                <a href="#flags">
+                <a href={props.flags}>
                   <span className="list">Flags</span>
                 </a>
               </li>
               <li>
-                <a href="#symbols">
+                <a href={props.symbols}>
                   <span className="list">Symbols</span>
                 </a>
               </li>
               <li>
-                <a href="#object">
+                <a href={props.object}>
                   <span className="list">Objects</span>
                 </a>
               </li>
