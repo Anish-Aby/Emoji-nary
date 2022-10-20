@@ -10,6 +10,15 @@ import flags from "../JSON files/flags";
 import symbols from "../JSON files/symbols";
 import object from "../JSON files/object";
 
+people.reverse();
+animal.reverse();
+food.reverse();
+activity.reverse();
+travel.reverse();
+flags.reverse();
+symbols.reverse();
+object.reverse();
+
 function Explore() {
   return (
     <>
