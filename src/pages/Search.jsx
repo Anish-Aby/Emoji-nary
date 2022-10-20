@@ -10,12 +10,32 @@ new URLSearchParams(window.location.search).forEach((value) => {
 });
 
 let resultsArray = [];
+let nullResultsArray = ["no results"];
+
+let nullResultsStyle = {
+  color: "#D6D6D6",
+  fontFamily: "Poppins",
+  fontSize: "5vh",
+  fontWeight: "600",
+};
+
+let nullResultsStyleSubHeadding = {
+  color: "#D6D6D6",
+  fontFamily: "Poppins",
+  fontSize: "3vh",
+  fontWeight: "600",
+};
 
 allEmoji.forEach(function (object) {
   let nameQuery = object.emojiName.toLowerCase();
   let emojiQuery = object.emoji;
+  let descriptionQuery = object.description;
 
-  if (nameQuery.includes(userSearch) || emojiQuery.includes(userSearch)) {
+  if (
+    nameQuery.includes(userSearch) ||
+    emojiQuery.includes(userSearch) ||
+    descriptionQuery.includes(userSearch)
+  ) {
     let emoji = object.emoji;
     let emojiName = object.emojiName;
     let description = object.description;
@@ -26,6 +46,8 @@ allEmoji.forEach(function (object) {
     });
   }
 });
+
+let resultsArrayLength = resultsArray.length;
 
 export default function Search() {
   return (
@@ -42,16 +64,32 @@ export default function Search() {
           object={"/explore#object"}
         />
         <div className="EXPLORE-MID-CONTAINER">
+          <div className="searchResult">
+            <h1>Search results for : {userSearch}</h1>
+          </div>
           <section className="EXPLORE-CARD-CONTAINER">
-            {resultsArray.map(function (object) {
-              return (
-                <Cards
-                  emoji={object.emoji}
-                  eName={object.emojiName.substring(2)}
-                  eDescription={object.description}
-                />
-              );
-            })}
+            {resultsArrayLength > 0
+              ? resultsArray.map(function (object) {
+                  return (
+                    <Cards
+                      emoji={object.emoji}
+                      eName={object.emojiName.substring(2)}
+                      eDescription={object.description}
+                    />
+                  );
+                })
+              : nullResultsArray.map(function (object) {
+                  return (
+                    <div>
+                      <div style={nullResultsStyle}>
+                        <h3>No results found!</h3>
+                      </div>
+                      <h4 style={nullResultsStyleSubHeadding}>
+                        Please check again later.
+                      </h4>
+                    </div>
+                  );
+                })}
           </section>
         </div>
       </div>
