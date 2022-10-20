@@ -174,17 +174,17 @@ form {
   align-items: center;
   justify-content: space-evenly;
   width: 40vh;
-  height: 40vh;
+  min-height: 40vh;
   border-radius: 26px;
   background-color: #1f2325;
   padding: 1vh;
   overflow: hidden;
 }
 
-.card-div:hover{
+/* .card-div:hover{
   cursor: default;
   animation: scaleUp 1.5s ease-in-out forwards;
-}
+} */
 
 @keyframes scaleUp {
   100% {
@@ -256,152 +256,6 @@ form {
 .highlight {
   color: #E91E63;
 }
-
-/* MEDIA QUERIES */
-
-@media screen and (max-width: 940px) {
-  .description {
-    text-align: center;
-  }
-
-  .search-box {
-    text-align: center;
-  }
-
-  form {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  input {
-    width: 50vh;
-    min-height: 5vh;
-  }
-
-  .explore-container {
-    flex-direction: column;
-  }
-
-  .main-container {
-    overflow: scroll;
-
-    align-items: center;
-  }
-
-  .card-div {
-    position: unset;
-  }
-
-  .card-div2 {
-    opacity: 100%;
-    position: unset;
-  }
-
-  .card-div3 {
-    opacity: 100%;
-    position: unset;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .heading {
-    font-size: 12vh;
-  }
-
-  .description {
-    font-size: 2vh;
-  }
-
-  .description {
-    text-align: center;
-  }
-
-  .search-box {
-    text-align: center;
-  }
-
-  input {
-    width: 45vh;
-    min-height: 5vh;
-  }
-
-  .main-container {
-    overflow: scroll;
-
-    align-items: center;
-  }
-
-  .card-div {
-    position: unset;
-  }
-
-  .card-div2 {
-    opacity: 100%;
-    position: unset;
-  }
-
-  .card-div3 {
-    opacity: 100%;
-    position: unset;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .heading {
-    font-size: 8vh;
-  }
-
-  .description {
-    font-size: 1.7vh;
-  }
-
-  .description {
-    text-align: center;
-  }
-
-  .search-box {
-    text-align: center;
-  }
-
-  input {
-    width: 43vh;
-    min-height: 5vh;
-  }
-
-  .main-container {
-    overflow: scroll;
-
-    align-items: center;
-  }
-
-  .card-div {
-    position: unset;
-  }
-
-  .card-div2 {
-    opacity: 100%;
-    position: unset;
-  }
-
-  .card-div3 {
-    opacity: 100%;
-    position: unset;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .search-button {
-    min-height: 3vw;
-    width: 10vw;
-  }
-
-  .explore-button {
-    min-height: 5vw;
-    width: 10vw;
-  }
-}
-
 
 /* EXPLORE PAGE */
 
@@ -600,4 +454,148 @@ form {
   width: 100%;
   height: 2px;
   background-color: #E91E63;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 940px) {
+  .description {
+    text-align: center;
+  }
+
+  .search-box {
+    text-align: center;
+  }
+
+  form {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  input {
+    width: 50vh;
+    min-height: 5vh;
+  }
+
+  .explore-container {
+    flex-direction: column;
+  }
+
+  .main-container {
+    overflow: scroll;
+    align-items: center;
+  }
+
+  .card-div {
+    position: unset;
+  }
+
+  .card-div2 {
+    opacity: 100%;
+    position: unset;
+  }
+
+  .card-div3 {
+    opacity: 100%;
+    position: unset;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .heading {
+    font-size: 12vh;
+  }
+
+  .description {
+    font-size: 2vh;
+  }
+
+  .description {
+    text-align: center;
+  }
+
+  .search-box {
+    text-align: center;
+  }
+
+  input {
+    width: 45vh;
+    min-height: 5vh;
+  }
+
+  .main-container {
+    overflow: scroll;
+
+    align-items: center;
+  }
+
+  .card-div {
+    position: unset;
+  }
+
+  .card-div2 {
+    opacity: 100%;
+    position: unset;
+  }
+
+  .card-div3 {
+    opacity: 100%;
+    position: unset;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .heading {
+    font-size: 8vh;
+  }
+
+  .description {
+    font-size: 1.7vh;
+  }
+
+  .description {
+    text-align: center;
+  }
+
+  .search-box {
+    text-align: center;
+  }
+
+  input {
+    width: 43vh;
+    min-height: 5vh;
+  }
+
+  .main-container {
+    overflow: scroll;
+
+    align-items: center;
+  }
+
+  .card-div {
+    position: unset;
+  }
+
+  .card-div2 {
+    opacity: 100%;
+    position: unset;
+  }
+
+  .card-div3 {
+    opacity: 100%;
+    position: unset;
+  }
+}
+
+@media (max-width: 420px) {
+  .search-button {
+    min-height: 3vw;
+    width: 10vw;
+  }
+
+  .explore-button {
+    min-height: 5vw;
+    width: 10vw;
+  }
 }
