@@ -6,7 +6,7 @@ import SideBar from "../components/explorePageComponents/SideBarMenu";
 let userSearch;
 
 new URLSearchParams(window.location.search).forEach((value) => {
-  userSearch = value;
+  userSearch = value.toLowerCase();
 });
 
 let resultsArray = [];
