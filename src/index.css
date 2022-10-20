@@ -590,12 +590,29 @@ form {
 
 @media (max-width: 420px) {
   .search-button {
-    min-height: 3vw;
-    width: 10vw;
+    min-height: 5vh;
+    min-width: 20vh;
+    font-size: 3vh;
+    padding: 2vh;
   }
 
   .explore-button {
-    min-height: 5vw;
-    width: 10vw;
+    min-height: 5vh;
+    min-width: 20vh;
+    font-size: 3vh;
+    padding: 2vh;
+  }
+  
+  .description{
+    font-size: 3.3vh;
+  }
+
+  .search-box{
+    font-size:3vh;
+  }
+
+  .home-searchbar{
+    min-height: 7vh;
+    font-size: 4vh;
   }
 }
